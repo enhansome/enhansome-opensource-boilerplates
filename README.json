@@ -19,7 +19,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16022
+            "stars": 16025
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4904
+            "stars": 4905
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 154
+            "stars": 155
           }
         }
       ],
@@ -148,7 +148,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16022
+            "stars": 16025
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-01T23:07:09Z",
             "owner": "ixartz",
             "repo": "Next-js-Boilerplate",
-            "stars": 13044
+            "stars": 13043
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 154
+            "stars": 155
           }
         }
       ],
@@ -224,7 +224,7 @@
             "last_commit": "2026-08-14T13:30:06Z",
             "owner": "sahat",
             "repo": "hackathon-starter",
-            "stars": 35248
+            "stars": 35247
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4904
+            "stars": 4905
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-10T15:26:46Z",
             "owner": "dpgaspar",
             "repo": "Flask-AppBuilder",
-            "stars": 4956
+            "stars": 4958
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-08-08T03:24:38Z",
             "owner": "fullstackhero",
             "repo": "dotnet-starter-kit",
-            "stars": 6722
+            "stars": 6721
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-06-07T01:18:58Z",
             "owner": "infinitered",
             "repo": "ignite",
-            "stars": 19932
+            "stars": 19931
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:56:09.004Z",
+    "last_updated": "2026-08-16T13:56:57.926Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
     "original_repository_sha": "6003f4058c8fcd892ebcb0038ce2ab64c6a08f62",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
