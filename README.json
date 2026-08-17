@@ -19,7 +19,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16025
+            "stars": 16031
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4905
+            "stars": 4904
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 155
+            "stars": 156
           }
         }
       ],
@@ -148,7 +148,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16025
+            "stars": 16031
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-07-08T20:18:51Z",
             "owner": "vercel",
             "repo": "platforms",
-            "stars": 6699
+            "stars": 6698
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 155
+            "stars": 156
           }
         }
       ],
@@ -221,10 +221,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T13:30:06Z",
+            "last_commit": "2026-08-17T13:29:59Z",
             "owner": "sahat",
             "repo": "hackathon-starter",
-            "stars": 35247
+            "stars": 35248
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4905
+            "stars": 4904
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-08-08T03:24:38Z",
             "owner": "fullstackhero",
             "repo": "dotnet-starter-kit",
-            "stars": 6721
+            "stars": 6725
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-06-07T01:18:58Z",
             "owner": "infinitered",
             "repo": "ignite",
-            "stars": 19931
+            "stars": 19929
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-06-30T10:48:00Z",
             "owner": "thecodingmachine",
             "repo": "react-native-boilerplate",
-            "stars": 5558
+            "stars": 5559
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-06-02T13:59:47Z",
             "owner": "obytes",
             "repo": "react-native-template-obytes",
-            "stars": 4311
+            "stars": 4314
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:56:57.926Z",
+    "last_updated": "2026-08-17T14:04:33.489Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
     "original_repository_sha": "6003f4058c8fcd892ebcb0038ce2ab64c6a08f62",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
