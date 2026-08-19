@@ -99,11 +99,11 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Sveltekit
 
-* [CMSSaasstarter](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,353 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+* [CMSSaasstarter](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,352 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 
 ### Node.js
 
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,246 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-18 - Boilerplate for Node.js web applications.
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,245 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-18 - Boilerplate for Node.js web applications.
 * [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,909 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready SaaS starter kit.
 * [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) ⭐ 4,500 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Production-ready SaaS boilerplate.
 * [Graphile Starter](https://github.com/graphile/starter) ⭐ 1,827 | 🐛 35 | 🌐 TypeScript | 📅 2026-03-23 - Full-stack application boilerplate.
