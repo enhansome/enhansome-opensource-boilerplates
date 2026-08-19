@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Sponsors"
-    },
-    {
       "description": "Production-ready, open source templates for building software-as-a-service applications:",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854894542,
             "language": "TypeScript",
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16037
+            "stars": 16043
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513516870,
             "language": "TypeScript",
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4906
+            "stars": 4909
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128308007,
             "language": "TypeScript",
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445358332,
             "language": "TypeScript",
             "last_commit": "2026-05-30T12:31:52Z",
             "owner": "nextacular",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585231229,
             "language": "Python",
             "last_commit": "2025-04-20T13:49:08Z",
             "owner": "ernestofgonzalez",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1164156051,
             "language": "Go",
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
@@ -96,7 +97,7 @@
       "title": "Open Source SaaS Boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881051345,
             "language": "TypeScript",
             "last_commit": "2026-07-26T11:53:06Z",
             "owner": "turbostarter",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302259086,
             "language": "TypeScript",
             "last_commit": "2025-01-06T10:24:38Z",
             "owner": "NekitCorp",
@@ -130,292 +133,312 @@
       "title": "Browser Extensions"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Next.js SaaS Starter",
+              "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 854894542,
+                "language": "TypeScript",
+                "last_commit": "2025-12-11T22:35:37Z",
+                "owner": "nextjs",
+                "repo": "saas-starter",
+                "stars": 16043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Next.js Boilerplate",
+              "description": "Free and open source Next.js starter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281769216,
+                "language": "TypeScript",
+                "last_commit": "2026-08-01T23:07:09Z",
+                "owner": "ixartz",
+                "repo": "Next-js-Boilerplate",
+                "stars": 13042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Platforms Starter Kit",
+              "description": "The all-in-one starter kit for building multi-tenant applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449942590,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T20:18:51Z",
+                "owner": "vercel",
+                "repo": "platforms",
+                "stars": 6699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nextacular",
+              "description": "Next.js SaaS boilerplate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445358332,
+                "language": "TypeScript",
+                "last_commit": "2026-05-30T12:31:52Z",
+                "owner": "nextacular",
+                "repo": "nextacular",
+                "stars": 1382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LastSaaS",
+              "description": "Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164156051,
+                "language": "Go",
+                "last_commit": "2026-03-05T18:12:51Z",
+                "owner": "jonradoff",
+                "repo": "lastsaas",
+                "stars": 157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React & Next.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hackathon Starter",
+              "description": "Boilerplate for Node.js web applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14370955,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T13:29:30Z",
+                "owner": "sahat",
+                "repo": "hackathon-starter",
+                "stars": 35246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BoxyHQ SaaS Starter Kit",
+              "description": "Enterprise-ready SaaS starter kit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513516870,
+                "language": "TypeScript",
+                "last_commit": "2026-07-20T08:15:05Z",
+                "owner": "boxyhq",
+                "repo": "saas-starter-kit",
+                "stars": 4909
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SaaS Boilerplate by Async Labs",
+              "description": "Production-ready SaaS boilerplate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128308007,
+                "language": "TypeScript",
+                "last_commit": "2025-03-21T18:07:06Z",
+                "owner": "async-labs",
+                "repo": "saas",
+                "stars": 4500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphile Starter",
+              "description": "Full-stack application boilerplate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181560785,
+                "language": "TypeScript",
+                "last_commit": "2026-03-23T11:51:30Z",
+                "owner": "graphile",
+                "repo": "starter",
+                "stars": 1827
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flask App Builder",
+              "description": "Simple and rapid application development framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14265145,
+                "language": "Python",
+                "last_commit": "2026-07-10T15:26:46Z",
+                "owner": "dpgaspar",
+                "repo": "Flask-AppBuilder",
+                "stars": 4958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enferno Framework",
+              "description": "Flask based framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21652207,
+                "language": "CSS",
+                "last_commit": "2026-07-12T14:52:42Z",
+                "owner": "level09",
+                "repo": "enferno",
+                "stars": 569
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flask"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FullStackHero .NET 8 Starter Kit",
+              "description": "With ASP.NET Core Web API & Blazor Client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398181340,
+                "language": "C#",
+                "last_commit": "2026-08-08T03:24:38Z",
+                "owner": "fullstackhero",
+                "repo": "dotnet-starter-kit",
+                "stars": 6728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean Architecture and Domain Driven Design Template",
+              "description": ".NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823097672,
+                "language": "C#",
+                "last_commit": "2026-07-24T10:34:09Z",
+                "owner": "mikolaj-jankowski",
+                "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
+                "stars": 292
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET Core"
+        }
+      ],
       "title": "Web Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Next.js SaaS Starter",
-          "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-11T22:35:37Z",
-            "owner": "nextjs",
-            "repo": "saas-starter",
-            "stars": 16037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Next.js Boilerplate",
-          "description": "Free and open source Next.js starter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-01T23:07:09Z",
-            "owner": "ixartz",
-            "repo": "Next-js-Boilerplate",
-            "stars": 13042
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Platforms Starter Kit",
-          "description": "The all-in-one starter kit for building multi-tenant applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-08T20:18:51Z",
-            "owner": "vercel",
-            "repo": "platforms",
-            "stars": 6698
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nextacular",
-          "description": "Next.js SaaS boilerplate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-30T12:31:52Z",
-            "owner": "nextacular",
-            "repo": "nextacular",
-            "stars": 1382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LastSaaS",
-          "description": "Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-05T18:12:51Z",
-            "owner": "jonradoff",
-            "repo": "lastsaas",
-            "stars": 157
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Infinite Red Boilerplate",
+              "description": "Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51452356,
+                "language": "TypeScript",
+                "last_commit": "2026-06-07T01:18:58Z",
+                "owner": "infinitered",
+                "repo": "ignite",
+                "stars": 19931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thecodingmachine boilerplate",
+              "description": "A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148149670,
+                "language": "TypeScript",
+                "last_commit": "2026-06-30T10:48:00Z",
+                "owner": "thecodingmachine",
+                "repo": "react-native-boilerplate",
+                "stars": 5561
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "obytes boilerplate",
+              "description": "A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294419498,
+                "language": "TypeScript",
+                "last_commit": "2026-06-02T13:59:47Z",
+                "owner": "obytes",
+                "repo": "react-native-template-obytes",
+                "stars": 4317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wataru-maeda boilerplate",
+              "description": "Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135783988,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T04:36:20Z",
+                "owner": "wataru-maeda",
+                "repo": "react-native-boilerplate",
+                "stars": 511
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Native"
         }
       ],
-      "title": "React & Next.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hackathon Starter",
-          "description": "Boilerplate for Node.js web applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T13:29:30Z",
-            "owner": "sahat",
-            "repo": "hackathon-starter",
-            "stars": 35246
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BoxyHQ SaaS Starter Kit",
-          "description": "Enterprise-ready SaaS starter kit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-20T08:15:05Z",
-            "owner": "boxyhq",
-            "repo": "saas-starter-kit",
-            "stars": 4906
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SaaS Boilerplate by Async Labs",
-          "description": "Production-ready SaaS boilerplate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-21T18:07:06Z",
-            "owner": "async-labs",
-            "repo": "saas",
-            "stars": 4500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphile Starter",
-          "description": "Full-stack application boilerplate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-23T11:51:30Z",
-            "owner": "graphile",
-            "repo": "starter",
-            "stars": 1827
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flask App Builder",
-          "description": "Simple and rapid application development framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-10T15:26:46Z",
-            "owner": "dpgaspar",
-            "repo": "Flask-AppBuilder",
-            "stars": 4958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Enferno Framework",
-          "description": "Flask based framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-12T14:52:42Z",
-            "owner": "level09",
-            "repo": "enferno",
-            "stars": 569
-          }
-        }
-      ],
-      "title": "Flask"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FullStackHero .NET 8 Starter Kit",
-          "description": "With ASP.NET Core Web API & Blazor Client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-08T03:24:38Z",
-            "owner": "fullstackhero",
-            "repo": "dotnet-starter-kit",
-            "stars": 6726
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clean Architecture and Domain Driven Design Template",
-          "description": ".NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-24T10:34:09Z",
-            "owner": "mikolaj-jankowski",
-            "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-            "stars": 292
-          }
-        }
-      ],
-      "title": ".NET Core"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Mobile Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Infinite Red Boilerplate",
-          "description": "Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-07T01:18:58Z",
-            "owner": "infinitered",
-            "repo": "ignite",
-            "stars": 19931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thecodingmachine boilerplate",
-          "description": "A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-30T10:48:00Z",
-            "owner": "thecodingmachine",
-            "repo": "react-native-boilerplate",
-            "stars": 5561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "obytes boilerplate",
-          "description": "A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-02T13:59:47Z",
-            "owner": "obytes",
-            "repo": "react-native-template-obytes",
-            "stars": 4315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wataru-maeda boilerplate",
-          "description": "Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T04:36:20Z",
-            "owner": "wataru-maeda",
-            "repo": "react-native-boilerplate",
-            "stars": 511
-          }
-        }
-      ],
-      "title": "React Native"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:15:57.083Z",
+    "last_updated": "2026-08-19T12:44:36.073Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
+    "original_repository_id": 886124544,
     "original_repository_sha": "6003f4058c8fcd892ebcb0038ce2ab64c6a08f62",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
     "enhanced_repository_description": null,
