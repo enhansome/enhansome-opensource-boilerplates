@@ -15,7 +15,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16043
+            "stars": 16045
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4500
+            "stars": 4501
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-26T11:53:06Z",
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 400
+            "stars": 401
           }
         },
         {
@@ -149,7 +149,7 @@
                 "last_commit": "2025-12-11T22:35:37Z",
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16043
+                "stars": 16045
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-01T23:07:09Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13042
+                "stars": 13046
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-07-08T20:18:51Z",
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6699
+                "stars": 6701
               }
             },
             {
@@ -228,10 +228,10 @@
                 "archived": false,
                 "id": 14370955,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T13:29:30Z",
+                "last_commit": "2026-08-20T13:29:25Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35245
+                "stars": 35243
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2025-03-21T18:07:06Z",
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4500
+                "stars": 4501
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-08-08T03:24:38Z",
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6728
+                "stars": 6729
               }
             },
             {
@@ -378,7 +378,7 @@
                 "last_commit": "2026-06-07T01:18:58Z",
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19931
+                "stars": 19930
               }
             },
             {
@@ -393,7 +393,7 @@
                 "last_commit": "2026-06-30T10:48:00Z",
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5561
+                "stars": 5562
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2026-06-02T13:59:47Z",
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4317
+                "stars": 4319
               }
             },
             {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:16:06.751Z",
+    "last_updated": "2026-08-20T14:18:54.318Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
     "original_repository_id": 886124544,
     "original_repository_sha": "6003f4058c8fcd892ebcb0038ce2ab64c6a08f62",
