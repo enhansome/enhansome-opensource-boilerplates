@@ -30,7 +30,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4911
+            "stars": 4912
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4501
+            "stars": 4502
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 585231229,
             "language": "Python",
-            "last_commit": "2026-08-22T11:11:41Z",
+            "last_commit": "2026-08-22T22:23:13Z",
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
             "stars": 205
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 1012440838,
             "language": "Python",
-            "last_commit": "2026-08-22T11:49:44Z",
+            "last_commit": "2026-08-23T07:53:23Z",
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 77
+            "stars": 78
           }
         }
       ],
@@ -194,7 +194,7 @@
                 "last_commit": "2026-07-08T20:18:51Z",
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6704
+                "stars": 6705
               }
             },
             {
@@ -224,7 +224,7 @@
                 "last_commit": "2026-03-05T18:12:51Z",
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 159
+                "stars": 160
               }
             }
           ],
@@ -246,7 +246,7 @@
                 "last_commit": "2026-08-21T13:30:14Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35242
+                "stars": 35243
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-07-20T08:15:05Z",
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4911
+                "stars": 4912
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2025-03-21T18:07:06Z",
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4501
+                "stars": 4502
               }
             },
             {
@@ -310,7 +310,7 @@
                 "archived": false,
                 "id": 585231229,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:11:41Z",
+                "last_commit": "2026-08-22T22:23:13Z",
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
                 "stars": 205
@@ -325,10 +325,10 @@
                 "archived": false,
                 "id": 1012440838,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:49:44Z",
+                "last_commit": "2026-08-23T07:53:23Z",
                 "owner": "speedpy",
                 "repo": "speedpy",
-                "stars": 77
+                "stars": 78
               }
             }
           ],
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-08T03:24:38Z",
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6729
+                "stars": 6730
               }
             },
             {
@@ -488,7 +488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:56:19.366Z",
+    "last_updated": "2026-08-23T13:57:05.974Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
     "original_repository_id": 886124544,
     "original_repository_sha": "877b956090734691ae1e51bed3c4b7e9eb4ec391",
