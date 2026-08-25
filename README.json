@@ -30,7 +30,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4913
+            "stars": 4914
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4503
+            "stars": 4502
           }
         },
         {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13056
+                "stars": 13054
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-03-21T20:53:07Z",
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2355
+                "stars": 2354
               }
             }
           ],
@@ -268,7 +268,7 @@
                 "last_commit": "2026-08-24T13:32:26Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35247
+                "stars": 35248
               }
             },
             {
@@ -283,7 +283,7 @@
                 "last_commit": "2026-07-20T08:15:05Z",
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4913
+                "stars": 4914
               }
             },
             {
@@ -298,7 +298,7 @@
                 "last_commit": "2025-03-21T18:07:06Z",
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4503
+                "stars": 4502
               }
             },
             {
@@ -496,7 +496,7 @@
                 "last_commit": "2026-08-24T19:34:10Z",
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45802
+                "stars": 45800
               }
             }
           ],
@@ -540,7 +540,7 @@
                 "last_commit": "2026-06-07T01:18:58Z",
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19935
+                "stars": 19934
               }
             },
             {
@@ -555,7 +555,7 @@
                 "last_commit": "2026-06-30T10:48:00Z",
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5564
+                "stars": 5565
               }
             },
             {
@@ -570,7 +570,7 @@
                 "last_commit": "2026-06-02T13:59:47Z",
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4323
+                "stars": 4324
               }
             },
             {
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:38.682Z",
+    "last_updated": "2026-08-25T14:25:24.939Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
     "original_repository_id": 886124544,
     "original_repository_sha": "877b956090734691ae1e51bed3c4b7e9eb4ec391",
