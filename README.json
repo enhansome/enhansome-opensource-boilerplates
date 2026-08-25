@@ -15,7 +15,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16053
+            "stars": 16055
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2025-12-11T22:35:37Z",
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16053
+                "stars": 16055
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13055
+                "stars": 13056
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-07-08T20:18:51Z",
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6706
+                "stars": 6705
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-03-21T20:53:07Z",
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2354
+                "stars": 2355
               }
             }
           ],
@@ -453,7 +453,7 @@
                 "last_commit": "2026-08-08T03:24:38Z",
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6733
+                "stars": 6734
               }
             },
             {
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 51148780,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T07:34:23Z",
+                "last_commit": "2026-08-24T19:34:10Z",
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45801
+                "stars": 45802
               }
             }
           ],
@@ -540,7 +540,7 @@
                 "last_commit": "2026-06-07T01:18:58Z",
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19933
+                "stars": 19935
               }
             },
             {
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:40.983Z",
+    "last_updated": "2026-08-25T06:02:38.682Z",
     "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
     "original_repository_id": 886124544,
     "original_repository_sha": "877b956090734691ae1e51bed3c4b7e9eb4ec391",
