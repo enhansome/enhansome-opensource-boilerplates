@@ -15,7 +15,7 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16060
+            "stars": 16059
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-21T10:28:24Z",
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2025-12-11T22:35:37Z",
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16060
+                "stars": 16059
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13050
+                "stars": 13053
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-07-08T20:18:51Z",
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6705
+                "stars": 6707
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-03-21T20:53:07Z",
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2354
+                "stars": 2357
               }
             }
           ],
@@ -268,7 +268,7 @@
                 "last_commit": "2026-08-24T13:32:26Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35247
+                "stars": 35248
               }
             },
             {
@@ -406,7 +406,7 @@
                 "archived": false,
                 "id": 21652207,
                 "language": "CSS",
-                "last_commit": "2026-07-12T14:52:42Z",
+                "last_commit": "2026-08-26T21:40:08Z",
                 "owner": "level09",
                 "repo": "enferno",
                 "stars": 569
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 51148780,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T19:34:10Z",
+                "last_commit": "2026-08-26T23:56:35Z",
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45802
+                "stars": 45803
               }
             }
           ],
@@ -540,7 +540,7 @@
                 "last_commit": "2026-06-07T01:18:58Z",
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19935
+                "stars": 19936
               }
             },
             {
@@ -598,9 +598,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:23:29.510Z",
-    "original_repository": "EinGuterWaran/awesome-opensource-boilerplates",
-    "original_repository_id": 886124544,
+    "last_updated": "2026-08-27T11:54:40.839Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 886124544,
+      "language": null,
+      "last_commit": "2026-08-22T12:01:54Z",
+      "owner": "EinGuterWaran",
+      "repo": "awesome-opensource-boilerplates",
+      "stars": 1950
+    },
     "original_repository_sha": "877b956090734691ae1e51bed3c4b7e9eb4ec391",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
     "enhanced_repository_description": null,
