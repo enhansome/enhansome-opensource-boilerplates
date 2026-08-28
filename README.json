@@ -15,8 +15,9 @@
             "last_commit": "2025-12-11T22:35:37Z",
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16062
-          }
+            "stars": 16065
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
             "stars": 4916
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "async-labs",
             "repo": "saas",
             "stars": 4502
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nextacular",
             "repo": "nextacular",
             "stars": 1382
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jonradoff",
             "repo": "lastsaas",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "speedpy",
             "repo": "speedpy",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         }
       ],
       "title": "Open Source SaaS Boilerplates"
@@ -127,7 +134,8 @@
             "owner": "turbostarter",
             "repo": "extro",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "NekitCorp",
             "repo": "chrome-extension-svelte-typescript-boilerplate",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T23:11:50.908Z"
         }
       ],
       "title": "Browser Extensions"
@@ -164,8 +173,9 @@
                 "last_commit": "2025-12-11T22:35:37Z",
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16062
-              }
+                "stars": 16065
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -179,8 +189,9 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13055
-              }
+                "stars": 13056
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -195,7 +206,8 @@
                 "owner": "vercel",
                 "repo": "platforms",
                 "stars": 6708
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "nextacular",
                 "repo": "nextacular",
                 "stars": 1382
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                 "owner": "jonradoff",
                 "repo": "lastsaas",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -247,7 +261,8 @@
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
                 "stars": 2357
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -265,11 +280,12 @@
                 "archived": false,
                 "id": 14370955,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:32:26Z",
+                "last_commit": "2026-08-28T21:36:47Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
                 "stars": 35251
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -284,7 +300,8 @@
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
                 "stars": 4916
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -299,7 +316,8 @@
                 "owner": "async-labs",
                 "repo": "saas",
                 "stars": 4502
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -313,8 +331,9 @@
                 "last_commit": "2026-03-23T11:51:30Z",
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1827
-              }
+                "stars": 1826
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -336,7 +355,8 @@
                 "owner": "tedivm",
                 "repo": "robs_awesome_python_template",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -358,7 +378,8 @@
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -373,7 +394,8 @@
                 "owner": "speedpy",
                 "repo": "speedpy",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -395,7 +417,8 @@
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
                 "stars": 4958
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "level09",
                 "repo": "enferno",
                 "stars": 569
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -432,7 +456,8 @@
                 "owner": "tarunvelli",
                 "repo": "rails-tabler-starter",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -453,8 +478,9 @@
                 "last_commit": "2026-08-08T03:24:38Z",
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6736
-              }
+                "stars": 6742
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -468,8 +494,9 @@
                 "last_commit": "2026-07-24T10:34:09Z",
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-                "stars": 292
-              }
+                "stars": 293
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -496,8 +523,9 @@
                 "last_commit": "2026-08-27T22:55:16Z",
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45805
-              }
+                "stars": 45806
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -519,7 +547,8 @@
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -540,8 +569,9 @@
                 "last_commit": "2026-06-07T01:18:58Z",
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19936
-              }
+                "stars": 19938
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -556,7 +586,8 @@
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
                 "stars": 5565
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -570,8 +601,9 @@
                 "last_commit": "2026-06-02T13:59:47Z",
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4325
-              }
+                "stars": 4327
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             },
             {
               "node_type": "item",
@@ -586,7 +618,8 @@
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
                 "stars": 514
-              }
+              },
+              "first_seen": "2026-08-28T23:11:50.908Z"
             }
           ],
           "description": null,
@@ -598,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:03:00.536Z",
+    "last_updated": "2026-08-28T23:11:50.908Z",
     "original_repository_info": {
       "archived": false,
       "id": 886124544,
@@ -606,7 +639,7 @@
       "last_commit": "2026-08-22T12:01:54Z",
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1951
+      "stars": 1952
     },
     "original_repository_sha": "877b956090734691ae1e51bed3c4b7e9eb4ec391",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
