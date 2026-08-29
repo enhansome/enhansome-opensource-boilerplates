@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+            "homepage": "https://next-saas-start.vercel.app",
             "id": 854894542,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-11T22:35:37Z",
+            "open_issues": 52,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16065
+            "stars": 16064,
+            "topics": [
+              "nextjs",
+              "postgres",
+              "shadcn-ui",
+              "stripe"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -26,12 +36,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀",
+            "homepage": "https://boxyhq.com/blog/enterprise-ready-saas-starter-kit",
             "id": 513516870,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T08:15:05Z",
+            "open_issues": 46,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4916
+            "stars": 4916,
+            "topics": [
+              "boilerplate",
+              "boilerplates",
+              "hacktoberfest",
+              "js-boilerplate",
+              "next-auth",
+              "nextjs",
+              "nodejs",
+              "react",
+              "saas",
+              "saas-app",
+              "saas-application",
+              "saas-boilerplate",
+              "saas-kit",
+              "starter-kit",
+              "starter-template",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -42,12 +75,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.",
+            "homepage": "https://saas-app.async-await.com",
             "id": 128308007,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-21T18:07:06Z",
+            "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4502
+            "stars": 4502,
+            "topics": [
+              "aws-s3",
+              "aws-ses",
+              "boilerplate",
+              "express",
+              "google-api",
+              "mailchimp",
+              "material-ui",
+              "mobx",
+              "mongodb",
+              "mongoose",
+              "nextjs",
+              "passport",
+              "react",
+              "saas",
+              "saas-boilerplate",
+              "saas-business",
+              "saas-product",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -58,12 +115,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, and Stripe.",
+            "homepage": "https://nextacular.co",
             "id": 445358332,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-30T12:31:52Z",
+            "open_issues": 21,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1382
+            "stars": 1382,
+            "topics": [
+              "analytics",
+              "backend",
+              "boilerplate-template",
+              "email",
+              "full-stack",
+              "javascript",
+              "multi-tenancy",
+              "next-auth",
+              "next-themes",
+              "nextjs",
+              "open-source",
+              "oss",
+              "prisma",
+              "saas",
+              "seo",
+              "starter-kit",
+              "stripe",
+              "tailwindcss",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -74,12 +156,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Django SaaS boilerplate",
+            "homepage": "https://djangorocket.com",
             "id": 585231229,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T17:32:57Z",
+            "open_issues": 4,
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "boilerplate",
+              "cookiecutter",
+              "cookiecutter-django",
+              "cookiecutter-template",
+              "django",
+              "django-project",
+              "project-template",
+              "python",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -90,12 +187,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SaaS boilerplate/starter-kit in Go+React with Stripe integration, multi-tenant support, comprehensive features and AI-agent ready",
+            "homepage": "https://metavert.io/lastsaas",
             "id": 1164156051,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-05T18:12:51Z",
+            "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "ai-agents",
+              "go",
+              "golang",
+              "mcp-server",
+              "react",
+              "saas-boilerplate",
+              "saas-platform",
+              "saas-template",
+              "stripe-payments"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -106,12 +218,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, MIT-licensed Django SaaS boilerplate for the AI era — production-ready APIs, teams, billing, and an MCP server for AI agents.",
+            "homepage": "https://speedpy.com",
             "id": 1012440838,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T06:24:31Z",
+            "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "ai-agents",
+              "alpinejs",
+              "boilerplate",
+              "django",
+              "django-rest-framework",
+              "htmx",
+              "mcp",
+              "python",
+              "saas-boilerplate",
+              "starter-kit",
+              "stripe"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         }
@@ -128,12 +257,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source browser extension starter kit 🧩",
+            "homepage": "https://turbostarter.dev",
             "id": 881051345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T10:28:24Z",
+            "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "ai",
+              "boilerplate",
+              "browser-extension",
+              "chrome-extension",
+              "edge-extension",
+              "extension",
+              "firefox-addon",
+              "plasmo",
+              "react",
+              "shadcn",
+              "starter-kit",
+              "supabase",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         },
@@ -144,12 +293,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate for Chrome Extension Svelte Typescript project",
+            "homepage": null,
             "id": 302259086,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-01-06T10:24:38Z",
+            "open_issues": 6,
             "owner": "NekitCorp",
             "repo": "chrome-extension-svelte-typescript-boilerplate",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "boilerplate",
+              "chrome-extension",
+              "svelte",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T23:11:50.908Z"
         }
@@ -168,12 +328,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+                "homepage": "https://next-saas-start.vercel.app",
                 "id": 854894542,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-11T22:35:37Z",
+                "open_issues": 52,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16065
+                "stars": 16064,
+                "topics": [
+                  "nextjs",
+                  "postgres",
+                  "shadcn-ui",
+                  "stripe"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -184,12 +354,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Sentry + PostCSS + Tailwind CSS ✨",
+                "homepage": "https://nextjs-boilerplate.com",
                 "id": 281769216,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T19:51:14Z",
+                "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13056
+                "stars": 13055,
+                "topics": [
+                  "boilerplate",
+                  "boilerplate-code",
+                  "jamstack",
+                  "javascript",
+                  "js-boilerplate",
+                  "netlify-template",
+                  "next-js",
+                  "next-theme",
+                  "nextjs",
+                  "nextjs-starter",
+                  "nextjs-template",
+                  "react",
+                  "react-boilerplate",
+                  "reactjs",
+                  "starter-kit",
+                  "starter-project",
+                  "starter-template",
+                  "tailwind-css",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -200,12 +396,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full-stack Next.js app with multi-tenancy.",
+                "homepage": "https://vercel.pub",
                 "id": 449942590,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-08T20:18:51Z",
+                "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6708
+                "stars": 6708,
+                "topics": [
+                  "multi-tenancy",
+                  "multi-tenant-applications",
+                  "nextjs",
+                  "tailwindcss",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -216,12 +423,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, and Stripe.",
+                "homepage": "https://nextacular.co",
                 "id": 445358332,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-30T12:31:52Z",
+                "open_issues": 21,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1382
+                "stars": 1382,
+                "topics": [
+                  "analytics",
+                  "backend",
+                  "boilerplate-template",
+                  "email",
+                  "full-stack",
+                  "javascript",
+                  "multi-tenancy",
+                  "next-auth",
+                  "next-themes",
+                  "nextjs",
+                  "open-source",
+                  "oss",
+                  "prisma",
+                  "saas",
+                  "seo",
+                  "starter-kit",
+                  "stripe",
+                  "tailwindcss",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -232,12 +464,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SaaS boilerplate/starter-kit in Go+React with Stripe integration, multi-tenant support, comprehensive features and AI-agent ready",
+                "homepage": "https://metavert.io/lastsaas",
                 "id": 1164156051,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-05T18:12:51Z",
+                "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "ai-agents",
+                  "go",
+                  "golang",
+                  "mcp-server",
+                  "react",
+                  "saas-boilerplate",
+                  "saas-platform",
+                  "saas-template",
+                  "stripe-payments"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -255,12 +502,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.",
+                "homepage": "https://saasstarter.work",
                 "id": 681429716,
                 "language": "Svelte",
+                "license": "MIT",
                 "last_commit": "2026-03-21T20:53:07Z",
+                "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2357
+                "stars": 2357,
+                "topics": [
+                  "boilerplate",
+                  "cloudflare",
+                  "daisyui",
+                  "postgresql",
+                  "saas",
+                  "saas-application",
+                  "saas-boilerplate",
+                  "saas-kit",
+                  "saas-template",
+                  "saas-tools",
+                  "starter-template",
+                  "stripe",
+                  "stripe-checkout",
+                  "supabase",
+                  "svelte",
+                  "sveltekit",
+                  "tailwind",
+                  "tailwind-css",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -278,12 +550,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boilerplate for Node.js web applications",
+                "homepage": null,
                 "id": 14370955,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:36:47Z",
+                "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35251
+                "stars": 35251,
+                "topics": [
+                  "boilerplate",
+                  "hackathon",
+                  "hacktoberfest",
+                  "nodejs",
+                  "oauth2",
+                  "starter-kit"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -294,12 +578,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀",
+                "homepage": "https://boxyhq.com/blog/enterprise-ready-saas-starter-kit",
                 "id": 513516870,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T08:15:05Z",
+                "open_issues": 46,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4916
+                "stars": 4916,
+                "topics": [
+                  "boilerplate",
+                  "boilerplates",
+                  "hacktoberfest",
+                  "js-boilerplate",
+                  "next-auth",
+                  "nextjs",
+                  "nodejs",
+                  "react",
+                  "saas",
+                  "saas-app",
+                  "saas-application",
+                  "saas-boilerplate",
+                  "saas-kit",
+                  "starter-kit",
+                  "starter-template",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -310,12 +617,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.",
+                "homepage": "https://saas-app.async-await.com",
                 "id": 128308007,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-21T18:07:06Z",
+                "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4502
+                "stars": 4502,
+                "topics": [
+                  "aws-s3",
+                  "aws-ses",
+                  "boilerplate",
+                  "express",
+                  "google-api",
+                  "mailchimp",
+                  "material-ui",
+                  "mobx",
+                  "mongodb",
+                  "mongoose",
+                  "nextjs",
+                  "passport",
+                  "react",
+                  "saas",
+                  "saas-boilerplate",
+                  "saas-business",
+                  "saas-product",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -326,12 +657,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js",
+                "homepage": "https://graphile-starter.herokuapp.com",
                 "id": 181560785,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-23T11:51:30Z",
+                "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1826
+                "stars": 1826,
+                "topics": [
+                  "apollo-client",
+                  "eslint",
+                  "graphile",
+                  "graphql",
+                  "job-queue",
+                  "node",
+                  "nodejs",
+                  "postgraphile",
+                  "postgresql",
+                  "saas",
+                  "saas-boilerplate",
+                  "starter",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -349,12 +699,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-ready Python template: Choose from FastAPI, SQLAlchemy, Celery, Docker, CI/CD and more. Flexibility that scales from libraries to full applications.",
+                "homepage": "https://blog.tedivm.com/open-source/2023/02/robs-awesome-python-template/",
                 "id": 576784992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-16T17:54:49Z",
+                "open_issues": 3,
                 "owner": "tedivm",
                 "repo": "robs_awesome_python_template",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "boilerplate",
+                  "celery",
+                  "cookiecutter",
+                  "docker",
+                  "fastapi",
+                  "github-actions",
+                  "project-template",
+                  "pytest",
+                  "python",
+                  "python-template",
+                  "ruff",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -372,12 +740,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Django SaaS boilerplate",
+                "homepage": "https://djangorocket.com",
                 "id": 585231229,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T17:32:57Z",
+                "open_issues": 4,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "boilerplate",
+                  "cookiecutter",
+                  "cookiecutter-django",
+                  "cookiecutter-template",
+                  "django",
+                  "django-project",
+                  "project-template",
+                  "python",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -388,12 +771,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free, MIT-licensed Django SaaS boilerplate for the AI era — production-ready APIs, teams, billing, and an MCP server for AI agents.",
+                "homepage": "https://speedpy.com",
                 "id": 1012440838,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:24:31Z",
+                "open_issues": 0,
                 "owner": "speedpy",
                 "repo": "speedpy",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "ai-agents",
+                  "alpinejs",
+                  "boilerplate",
+                  "django",
+                  "django-rest-framework",
+                  "htmx",
+                  "mcp",
+                  "python",
+                  "saas-boilerplate",
+                  "starter-kit",
+                  "stripe"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -411,12 +811,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
+                "homepage": null,
                 "id": 14265145,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-10T15:26:46Z",
+                "open_issues": 268,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4958
+                "stars": 4958,
+                "topics": [
+                  "authentication",
+                  "crud",
+                  "flask",
+                  "python",
+                  "rbac",
+                  "rest",
+                  "rest-api",
+                  "sql",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -427,12 +842,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Flask framework with zero-config frontend (Vue 3 + Vuetify 3),    production-ready auth (2FA, passkeys, OAuth), and AI-native development.    No webpack, no node_modules,  just Python",
+                "homepage": "https://enferno.io",
                 "id": 21652207,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-08-26T21:40:08Z",
+                "open_issues": 4,
                 "owner": "level09",
                 "repo": "enferno",
-                "stars": 569
+                "stars": 569,
+                "topics": [
+                  "celery",
+                  "css",
+                  "docker",
+                  "flask",
+                  "hackathon",
+                  "postgresql",
+                  "python",
+                  "redis",
+                  "saas",
+                  "saas-boilerplate",
+                  "sqlalchemy",
+                  "sqlite",
+                  "vue",
+                  "vuetify",
+                  "webframework"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -450,12 +886,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Free and open source Ruby on Rails starter kit built using Tabler",
+                "homepage": "https://rails-tabler.tarunvelli.site",
                 "id": 575705097,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-06T10:35:30Z",
+                "open_issues": 10,
                 "owner": "tarunvelli",
                 "repo": "rails-tabler-starter",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "admin-dashboard",
+                  "admin-panel",
+                  "boilerplate",
+                  "boilerplate-code",
+                  "bootstrap",
+                  "rails",
+                  "rails-boilerplate",
+                  "ruby",
+                  "ruby-boilerplate",
+                  "ruby-on-rails",
+                  "starter-kit",
+                  "starter-template",
+                  "tabler",
+                  "tabler-template",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -473,12 +930,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production Grade Cloud-Ready .NET 10 Starter Kit (Web API + React Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+                "homepage": "https://fullstackhero.net/",
                 "id": 398181340,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-08T03:24:38Z",
+                "open_issues": 21,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6742
+                "stars": 6744,
+                "topics": [
+                  "aws",
+                  "blazor",
+                  "boilerplate",
+                  "clean-architechture",
+                  "clean-architecture",
+                  "codewithmukesh",
+                  "docker",
+                  "dotnet",
+                  "dotnet8",
+                  "fullstackhero",
+                  "modular-monolith",
+                  "multitenancy",
+                  "starter-kit",
+                  "template",
+                  "terraform",
+                  "vertical-slice-architecture",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -489,12 +969,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Core template in DDD and Clean Architecture approach.",
+                "homepage": null,
                 "id": 823097672,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-24T10:34:09Z",
+                "open_issues": 0,
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "aspire-dashboard",
+                  "clean-architecture",
+                  "cqrs",
+                  "csharp",
+                  "ddd-architecture",
+                  "domain-driven-design",
+                  "dotnet",
+                  "dotnet-core",
+                  "template",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -518,12 +1014,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+                "homepage": null,
                 "id": 51148780,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:55:16Z",
+                "open_issues": 223,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45806
+                "stars": 45807,
+                "topics": [
+                  "android",
+                  "android-architecture",
+                  "sample",
+                  "samples"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -541,12 +1047,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated starting point for awesome, reusable Swift 6 modules",
+                "homepage": null,
                 "id": 68070155,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-09-28T18:17:27Z",
+                "open_issues": 2,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
-                "stars": 487
+                "stars": 487,
+                "topics": [
+                  "cocoapods",
+                  "ios",
+                  "swift",
+                  "swift-package-manager",
+                  "template",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -564,12 +1082,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.",
+                "homepage": "https://infinite.red/ignite",
                 "id": 51452356,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-07T01:18:58Z",
+                "open_issues": 34,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19938
+                "stars": 19938,
+                "topics": [
+                  "boilerplate",
+                  "cli",
+                  "expo",
+                  "generator",
+                  "mst",
+                  "react-native",
+                  "react-native-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -580,12 +1111,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙 (you choose).",
+                "homepage": "https://thecodingmachine.github.io/react-native-boilerplate/",
                 "id": 148149670,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T10:48:00Z",
+                "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5565
+                "stars": 5565,
+                "topics": [
+                  "architecture",
+                  "boilerplate",
+                  "boilerplates",
+                  "javascript",
+                  "react-native",
+                  "react-native-boilerplate",
+                  "starter-kit",
+                  "starter-template",
+                  "starterkit",
+                  "tanstack-query",
+                  "thecodingmachine",
+                  "typescript",
+                  "typescript-boilerplate",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -596,12 +1147,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.",
+                "homepage": "https://starter.obytes.com",
                 "id": 294419498,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-02T13:59:47Z",
+                "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4327
+                "stars": 4329,
+                "topics": [
+                  "android",
+                  "boilerplate",
+                  "expo",
+                  "expo-router",
+                  "expo-starter",
+                  "react",
+                  "react-native",
+                  "react-native-boilerplate",
+                  "react-native-template",
+                  "react-navigation",
+                  "react-query",
+                  "starter-template",
+                  "tailwindcss",
+                  "template",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             },
@@ -612,12 +1184,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Production-ready React Native boilerplate for iOS, Android,   and Web with Expo SDK 54, React 19.1, Expo Router v6, Redux   Toolkit, TypeScript, and AI-optimized development   (Claude/Cursor). Features modern architecture, static web   rendering, and automated deployment workflows.",
+                "homepage": null,
                 "id": 135783988,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T04:36:20Z",
+                "open_issues": 6,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
-                "stars": 514
+                "stars": 514,
+                "topics": [
+                  "ai-coding",
+                  "android",
+                  "boilerplate",
+                  "claude",
+                  "cross-platform",
+                  "cursor",
+                  "eas-build",
+                  "eslint",
+                  "expo",
+                  "expo-router",
+                  "ios",
+                  "jest",
+                  "mobile",
+                  "react",
+                  "react-native",
+                  "redux-toolkit",
+                  "starter-kit",
+                  "template",
+                  "typescript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
             }
@@ -631,15 +1229,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:11:50.908Z",
+    "last_updated": "2026-08-29T04:28:27.744Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
+      "homepage": "https://boilerplatehub.com/",
       "id": 886124544,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-22T12:01:54Z",
+      "open_issues": 2,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1952
+      "stars": 1952,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "boilerplate",
+        "boilerplates",
+        "open-source",
+        "open-source-saas",
+        "open-source-saas-boilerplate",
+        "saas",
+        "saas-boilerplate",
+        "starter-kit",
+        "starter-template",
+        "starters",
+        "template",
+        "templates"
+      ]
     },
     "original_repository_sha": "877b956090734691ae1e51bed3c4b7e9eb4ec391",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
