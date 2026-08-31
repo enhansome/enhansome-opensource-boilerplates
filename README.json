@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16067,
+            "stars": 16064,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 46,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4914,
+            "stars": 4915,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -337,7 +337,7 @@
                 "open_issues": 52,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16067,
+                "stars": 16064,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13057,
+                "stars": 13059,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6707,
+                "stars": 6706,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -559,7 +559,7 @@
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35250,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 46,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4914,
+                "stars": 4915,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -939,7 +939,7 @@
                 "open_issues": 21,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6751,
+                "stars": 6753,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4330,
+                "stars": 4331,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:45:08.666Z",
+    "last_updated": "2026-08-31T19:37:39.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
