@@ -45,7 +45,7 @@
             "open_issues": 47,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4923,
+            "stars": 4924,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -266,7 +266,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "ai",
               "boilerplate",
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T13:27:48Z",
+                "last_commit": "2026-09-04T13:27:49Z",
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 47,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4923,
+                "stars": 4924,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -666,7 +666,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1826,
+                "stars": 1827,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -817,10 +817,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-10T15:26:46Z",
-                "open_issues": 268,
+                "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4957,
+                "stars": 4958,
                 "topics": [
                   "authentication",
                   "crud",
@@ -939,7 +939,7 @@
                 "open_issues": 22,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6758,
+                "stars": 6759,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 224,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45817,
+                "stars": 45819,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 34,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19939,
+                "stars": 19937,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1193,7 +1193,7 @@
                 "open_issues": 8,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
-                "stars": 513,
+                "stars": 514,
                 "topics": [
                   "ai-coding",
                   "android",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:11:01.165Z",
+    "last_updated": "2026-09-04T17:03:47.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
