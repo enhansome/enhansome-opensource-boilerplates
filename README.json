@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16091,
+            "stars": 16096,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 47,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4928,
+            "stars": 4929,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4509,
+            "stars": 4511,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -196,7 +196,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "ai-agents",
               "go",
@@ -223,7 +223,7 @@
             "id": 1012440838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T07:06:27Z",
+            "last_commit": "2026-09-08T06:03:45Z",
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
@@ -337,7 +337,7 @@
                 "open_issues": 52,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16091,
+                "stars": 16096,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13072,
+                "stars": 13073,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6706,
+                "stars": 6705,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -473,7 +473,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2355,
+                "stars": 2357,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -555,7 +555,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T13:29:38Z",
+                "last_commit": "2026-09-08T13:30:39Z",
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -587,7 +587,7 @@
                 "open_issues": 47,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4928,
+                "stars": 4929,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4509,
+                "stars": 4511,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -776,7 +776,7 @@
                 "id": 1012440838,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T07:06:27Z",
+                "last_commit": "2026-09-08T06:03:45Z",
                 "open_issues": 0,
                 "owner": "speedpy",
                 "repo": "speedpy",
@@ -1120,7 +1120,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5563,
+                "stars": 5564,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4336,
+                "stars": 4337,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:22:37.873Z",
+    "last_updated": "2026-09-08T17:28:00.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1238,10 +1238,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-29T12:17:04Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1956,
+      "stars": 1958,
       "topics": [
         "awesome",
         "awesome-list",
