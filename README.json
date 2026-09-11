@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16104,
+            "stars": 16108,
             "topics": [
               "nextjs",
               "postgres",
@@ -121,10 +121,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-30T12:31:52Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1386,
+            "stars": 1388,
             "topics": [
               "analytics",
               "backend",
@@ -196,7 +196,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "ai-agents",
               "go",
@@ -337,7 +337,7 @@
                 "open_issues": 53,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16104,
+                "stars": 16108,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13074,
+                "stars": 13075,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -429,10 +429,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-05-30T12:31:52Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1386,
+                "stars": 1388,
                 "topics": [
                   "analytics",
                   "backend",
@@ -473,7 +473,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -939,7 +939,7 @@
                 "open_issues": 28,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6776,
+                "stars": 6777,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 224,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45822,
+                "stars": 45823,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 36,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19939,
+                "stars": 19940,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1120,7 +1120,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5564,
+                "stars": 5563,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:09:38.311Z",
+    "last_updated": "2026-09-11T17:11:11.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1241,7 +1241,7 @@
       "open_issues": 2,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1960,
+      "stars": 1961,
       "topics": [
         "awesome",
         "awesome-list",
