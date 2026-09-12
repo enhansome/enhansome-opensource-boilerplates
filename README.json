@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16108,
+            "stars": 16114,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 48,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4931,
+            "stars": 4933,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4510,
+            "stars": 4509,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -196,7 +196,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "ai-agents",
               "go",
@@ -266,7 +266,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "ai",
               "boilerplate",
@@ -337,7 +337,7 @@
                 "open_issues": 53,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16108,
+                "stars": 16114,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13075,
+                "stars": 13076,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -473,7 +473,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -559,7 +559,7 @@
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35249,
+                "stars": 35250,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 48,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4931,
+                "stars": 4933,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4510,
+                "stars": 4509,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -891,7 +891,7 @@
                 "id": 575705097,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-06-06T10:35:30Z",
+                "last_commit": "2026-09-12T09:18:12Z",
                 "open_issues": 10,
                 "owner": "tarunvelli",
                 "repo": "rails-tabler-starter",
@@ -939,7 +939,7 @@
                 "open_issues": 28,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6777,
+                "stars": 6778,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 224,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45823,
+                "stars": 45824,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 36,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19940,
+                "stars": 19939,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4338,
+                "stars": 4339,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1193,7 +1193,7 @@
                 "open_issues": 10,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
-                "stars": 515,
+                "stars": 516,
                 "topics": [
                   "ai-coding",
                   "android",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:11:11.234Z",
+    "last_updated": "2026-09-12T16:28:12.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
