@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16114,
+            "stars": 16116,
             "topics": [
               "nextjs",
               "postgres",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4509,
+            "stars": 4510,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -165,7 +165,7 @@
             "open_issues": 4,
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "boilerplate",
               "cookiecutter",
@@ -337,7 +337,7 @@
                 "open_issues": 53,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16114,
+                "stars": 16116,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13076,
+                "stars": 13078,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -559,7 +559,7 @@
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35250,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4509,
+                "stars": 4510,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -749,7 +749,7 @@
                 "open_issues": 4,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -820,7 +820,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4960,
+                "stars": 4961,
                 "topics": [
                   "authentication",
                   "crud",
@@ -939,7 +939,7 @@
                 "open_issues": 28,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6778,
+                "stars": 6779,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 224,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45824,
+                "stars": 45825,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1088,7 +1088,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-07T01:18:58Z",
-                "open_issues": 36,
+                "open_issues": 38,
                 "owner": "infinitered",
                 "repo": "ignite",
                 "stars": 19939,
@@ -1189,8 +1189,8 @@
                 "id": 135783988,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T13:10:54Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-13T07:17:45Z",
+                "open_issues": 11,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
                 "stars": 516,
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:28:12.690Z",
+    "last_updated": "2026-09-13T17:03:03.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
