@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16126,
+            "stars": 16129,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 48,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4936,
+            "stars": 4937,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "ai-agents",
               "alpinejs",
@@ -266,7 +266,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "ai",
               "boilerplate",
@@ -337,7 +337,7 @@
                 "open_issues": 53,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16126,
+                "stars": 16129,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13080,
+                "stars": 13079,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6705,
+                "stars": 6703,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2361,
+                "stars": 2362,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -555,7 +555,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T13:30:25Z",
+                "last_commit": "2026-09-16T13:30:26Z",
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -587,7 +587,7 @@
                 "open_issues": 48,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4936,
+                "stars": 4937,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -666,7 +666,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1827,
+                "stars": 1826,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -780,7 +780,7 @@
                 "open_issues": 0,
                 "owner": "speedpy",
                 "repo": "speedpy",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "ai-agents",
                   "alpinejs",
@@ -816,11 +816,11 @@
                 "id": 14265145,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-07-10T15:26:46Z",
+                "last_commit": "2026-09-16T13:08:55Z",
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4961,
+                "stars": 4960,
                 "topics": [
                   "authentication",
                   "crud",
@@ -936,7 +936,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-08T03:24:38Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
                 "stars": 6785,
@@ -1020,10 +1020,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T20:43:33Z",
-                "open_issues": 224,
+                "open_issues": 225,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45826,
+                "stars": 45828,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 38,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19943,
+                "stars": 19945,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:45:22.355Z",
+    "last_updated": "2026-09-16T17:44:05.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
