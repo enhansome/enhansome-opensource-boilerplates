@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16133,
+            "stars": 16134,
             "topics": [
               "nextjs",
               "postgres",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4511,
+            "stars": 4510,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -124,7 +124,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "analytics",
               "backend",
@@ -337,7 +337,7 @@
                 "open_issues": 53,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16133,
+                "stars": 16134,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13077,
+                "stars": 13078,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6704,
+                "stars": 6705,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -432,7 +432,7 @@
                 "open_issues": 20,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1388,
+                "stars": 1389,
                 "topics": [
                   "analytics",
                   "backend",
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T13:35:22Z",
+                "last_commit": "2026-09-18T13:30:44Z",
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35254,
+                "stars": 35253,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4511,
+                "stars": 4510,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -1091,7 +1091,7 @@
                 "open_issues": 38,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19947,
+                "stars": 19948,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:44:13.405Z",
+    "last_updated": "2026-09-18T17:11:20.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1238,7 +1238,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-29T12:17:04Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
       "stars": 1964,
