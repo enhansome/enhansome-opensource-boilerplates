@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16133,
+            "stars": 16139,
             "topics": [
               "nextjs",
               "postgres",
@@ -337,7 +337,7 @@
                 "open_issues": 53,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16133,
+                "stars": 16139,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -666,7 +666,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -939,7 +939,7 @@
                 "open_issues": 30,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6805,
+                "stars": 6804,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45840,
+                "stars": 45844,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 38,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19944,
+                "stars": 19943,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4344,
+                "stars": 4343,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:44:51.893Z",
+    "last_updated": "2026-09-23T17:57:19.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1241,7 +1241,7 @@
       "open_issues": 3,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1964,
+      "stars": 1965,
       "topics": [
         "awesome",
         "awesome-list",
