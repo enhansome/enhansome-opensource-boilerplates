@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-11T22:35:37Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16139,
+            "stars": 16142,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4936,
+            "stars": 4938,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4514,
+            "stars": 4516,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "ai-agents",
               "alpinejs",
@@ -334,10 +334,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-12-11T22:35:37Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16139,
+                "stars": 16142,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4936,
+                "stars": 4938,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4514,
+                "stars": 4516,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -708,7 +708,7 @@
                 "open_issues": 3,
                 "owner": "tedivm",
                 "repo": "robs_awesome_python_template",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "boilerplate",
                   "celery",
@@ -780,7 +780,7 @@
                 "open_issues": 0,
                 "owner": "speedpy",
                 "repo": "speedpy",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "ai-agents",
                   "alpinejs",
@@ -1019,11 +1019,11 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:00:45Z",
+                "last_commit": "2026-09-23T22:31:52Z",
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45844,
+                "stars": 45846,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 38,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19943,
+                "stars": 19941,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:57:19.618Z",
+    "last_updated": "2026-09-24T17:56:20.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1238,7 +1238,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-29T12:17:04Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
       "stars": 1965,
