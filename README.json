@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16142,
+            "stars": 16144,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4938,
+            "stars": 4939,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -337,7 +337,7 @@
                 "open_issues": 54,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16142,
+                "stars": 16144,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13079,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T12:38:11Z",
+                "last_commit": "2026-09-25T13:28:38Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35254,
+                "stars": 35250,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4938,
+                "stars": 4939,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -935,11 +935,11 @@
                 "id": 398181340,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-08T03:24:38Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-25T14:14:07Z",
+                "open_issues": 14,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6804,
+                "stars": 6807,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1019,7 +1019,7 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T22:31:52Z",
+                "last_commit": "2026-09-25T04:02:46Z",
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
@@ -1091,7 +1091,7 @@
                 "open_issues": 38,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19941,
+                "stars": 19943,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4343,
+                "stars": 4345,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:56:20.595Z",
+    "last_updated": "2026-09-25T18:03:39.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1241,7 +1241,7 @@
       "open_issues": 2,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1965,
+      "stars": 1967,
       "topics": [
         "awesome",
         "awesome-list",
