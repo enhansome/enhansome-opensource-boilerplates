@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16144,
+            "stars": 16148,
             "topics": [
               "nextjs",
               "postgres",
@@ -337,7 +337,7 @@
                 "open_issues": 54,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16144,
+                "stars": 16148,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2365,
+                "stars": 2366,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -559,7 +559,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35250,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -851,7 +851,7 @@
                 "open_issues": 4,
                 "owner": "level09",
                 "repo": "enferno",
-                "stars": 569,
+                "stars": 568,
                 "topics": [
                   "celery",
                   "css",
@@ -935,11 +935,11 @@
                 "id": 398181340,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T14:14:07Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-26T07:43:52Z",
+                "open_issues": 13,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6807,
+                "stars": 6806,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1019,11 +1019,11 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T04:02:46Z",
+                "last_commit": "2026-09-26T01:52:33Z",
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45846,
+                "stars": 45843,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1056,7 +1056,7 @@
                 "open_issues": 2,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
-                "stars": 487,
+                "stars": 488,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:03:39.378Z",
+    "last_updated": "2026-09-26T17:22:39.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
