@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16153,
+            "stars": 16156,
             "topics": [
               "nextjs",
               "postgres",
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16153,
+                "stars": 16156,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13082,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:29:30Z",
+                "last_commit": "2026-09-29T23:41:32Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35250,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -666,7 +666,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1830,
+                "stars": 1829,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -847,7 +847,7 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-29T14:38:27Z",
+                "last_commit": "2026-09-29T23:13:10Z",
                 "open_issues": 4,
                 "owner": "level09",
                 "repo": "enferno",
@@ -935,11 +935,11 @@
                 "id": 398181340,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-29T11:28:34Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-30T05:27:14Z",
+                "open_issues": 10,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6806,
+                "stars": 6807,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45849,
+                "stars": 45848,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 39,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19940,
+                "stars": 19941,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1120,7 +1120,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5568,
+                "stars": 5567,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4349,
+                "stars": 4350,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:51:15.138Z",
+    "last_updated": "2026-09-30T18:33:10.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
