@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16159,
+            "stars": 16158,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4939,
+            "stars": 4940,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -161,8 +161,8 @@
             "id": 585231229,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-23T17:32:57Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T15:08:09Z",
+            "open_issues": 3,
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
             "stars": 208,
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16159,
+                "stars": 16158,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13082,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2368,
+                "stars": 2367,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -559,7 +559,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35254,
+                "stars": 35253,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4939,
+                "stars": 4940,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -745,8 +745,8 @@
                 "id": 585231229,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-23T17:32:57Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-02T15:08:09Z",
+                "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
                 "stars": 208,
@@ -936,10 +936,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-30T05:27:14Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6809,
+                "stars": 6810,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45848,
+                "stars": 45849,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1052,7 +1052,7 @@
                 "id": 68070155,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2025-09-28T18:17:27Z",
+                "last_commit": "2026-10-02T02:22:42Z",
                 "open_issues": 2,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
@@ -1091,7 +1091,7 @@
                 "open_issues": 39,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19940,
+                "stars": 19939,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1120,7 +1120,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5567,
+                "stars": 5566,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4350,
+                "stars": 4349,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:01:01.986Z",
+    "last_updated": "2026-10-02T18:40:18.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1241,7 +1241,7 @@
       "open_issues": 4,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1971,
+      "stars": 1970,
       "topics": [
         "awesome",
         "awesome-list",
