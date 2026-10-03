@@ -559,7 +559,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35253,
+                "stars": 35255,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -820,7 +820,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4964,
+                "stars": 4963,
                 "topics": [
                   "authentication",
                   "crud",
@@ -939,7 +939,7 @@
                 "open_issues": 13,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6810,
+                "stars": 6811,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 227,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45849,
+                "stars": 45850,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:40:18.415Z",
+    "last_updated": "2026-10-03T05:00:24.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",

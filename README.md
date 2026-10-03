@@ -106,7 +106,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Node.js
 
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,253 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 - Boilerplate for Node.js web applications.
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,255 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 - Boilerplate for Node.js web applications.
 * [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,940 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready SaaS starter kit.
 * [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) ⭐ 4,517 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Production-ready SaaS boilerplate.
 * [Graphile Starter](https://github.com/graphile/starter) ⭐ 1,829 | 🐛 35 | 🌐 TypeScript | 📅 2026-03-23 - Full-stack application boilerplate.
@@ -122,7 +122,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Flask
 
-* [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,964 | 🐛 269 | 🌐 Python | 📅 2026-09-16 - Simple and rapid application development framework.
+* [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,963 | 🐛 269 | 🌐 Python | 📅 2026-09-16 - Simple and rapid application development framework.
 * [Enferno Framework](https://github.com/level09/enferno) ⭐ 568 | 🐛 4 | 🌐 HTML | 📅 2026-09-29 - Flask based framework.
 
 ### Ruby on Rails
@@ -131,14 +131,14 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### .NET Core
 
-* [FullStackHero .NET 8 Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,810 | 🐛 13 | 🌐 C# | 📅 2026-09-30 - With ASP.NET Core Web API & Blazor Client.
+* [FullStackHero .NET 8 Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,811 | 🐛 13 | 🌐 C# | 📅 2026-09-30 - With ASP.NET Core Web API & Blazor Client.
 * [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) ⭐ 296 | 🐛 0 | 🌐 C# | 📅 2026-07-24 - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 
 ## Mobile Development
 
 ### Android
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,849 | 🐛 227 | 🌐 Kotlin | 📅 2026-09-26 - MVP architecture samples.
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,850 | 🐛 227 | 🌐 Kotlin | 📅 2026-09-26 - MVP architecture samples.
 
 ### iOS
 
@@ -157,4 +157,4 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
