@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16162,
+            "stars": 16160,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4941,
+            "stars": 4939,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4517,
+            "stars": 4516,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -124,7 +124,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1390,
+            "stars": 1389,
             "topics": [
               "analytics",
               "backend",
@@ -161,7 +161,7 @@
             "id": 585231229,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T13:43:40Z",
+            "last_commit": "2026-10-05T10:02:22Z",
             "open_issues": 3,
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
@@ -266,7 +266,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "ai",
               "boilerplate",
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16162,
+                "stars": 16160,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13079,
+                "stars": 13078,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6712,
+                "stars": 6714,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -432,7 +432,7 @@
                 "open_issues": 20,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1390,
+                "stars": 1389,
                 "topics": [
                   "analytics",
                   "backend",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2368,
+                "stars": 2366,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T23:41:32Z",
+                "last_commit": "2026-10-05T13:33:10Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35253,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4941,
+                "stars": 4939,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4517,
+                "stars": 4516,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -666,7 +666,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1829,
+                "stars": 1828,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -745,7 +745,7 @@
                 "id": 585231229,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T13:43:40Z",
+                "last_commit": "2026-10-05T10:02:22Z",
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
@@ -939,7 +939,7 @@
                 "open_issues": 13,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6811,
+                "stars": 6812,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45850,
+                "stars": 45853,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1120,7 +1120,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5565,
+                "stars": 5564,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:49:05.828Z",
+    "last_updated": "2026-10-05T21:28:02.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1238,10 +1238,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-29T12:17:04Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1970,
+      "stars": 1971,
       "topics": [
         "awesome",
         "awesome-list",
