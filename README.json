@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16160,
+            "stars": 16163,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4939,
+            "stars": 4941,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4516,
+            "stars": 4517,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16160,
+                "stars": 16163,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13078,
+                "stars": 13077,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6714,
+                "stars": 6715,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -511,7 +511,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2366,
+                "stars": 2369,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -559,7 +559,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35254,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4939,
+                "stars": 4941,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4516,
+                "stars": 4517,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -936,7 +936,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-30T05:27:14Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
                 "stars": 6812,
@@ -1023,7 +1023,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45853,
+                "stars": 45852,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 39,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19938,
+                "stars": 19939,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:02.088Z",
+    "last_updated": "2026-10-06T10:15:13.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
