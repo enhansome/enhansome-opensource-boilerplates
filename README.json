@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16163,
+            "stars": 16162,
             "topics": [
               "nextjs",
               "postgres",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4517,
+            "stars": 4518,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -124,7 +124,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1389,
+            "stars": 1390,
             "topics": [
               "analytics",
               "backend",
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16163,
+                "stars": 16162,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6715,
+                "stars": 6716,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -432,7 +432,7 @@
                 "open_issues": 20,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "analytics",
                   "backend",
@@ -555,7 +555,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:33:10Z",
+                "last_commit": "2026-10-06T13:37:11Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4517,
+                "stars": 4518,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -666,7 +666,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -817,7 +817,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-16T13:08:55Z",
-                "open_issues": 269,
+                "open_issues": 270,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
                 "stars": 4963,
@@ -1023,7 +1023,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45852,
+                "stars": 45853,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1091,7 +1091,7 @@
                 "open_issues": 39,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19939,
+                "stars": 19940,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4350,
+                "stars": 4351,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:15:13.280Z",
+    "last_updated": "2026-10-06T19:02:11.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
