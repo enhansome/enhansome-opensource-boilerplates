@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16162,
+            "stars": 16163,
             "topics": [
               "nextjs",
               "postgres",
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16162,
+                "stars": 16163,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -397,7 +397,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "A full-stack Next.js app with multi-tenancy.",
-                "homepage": "https://vercel.pub",
+                "homepage": null,
                 "id": 449942590,
                 "language": "TypeScript",
                 "license": null,
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T13:37:11Z",
+                "last_commit": "2026-10-07T13:29:25Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35254,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -1091,7 +1091,7 @@
                 "open_issues": 39,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19940,
+                "stars": 19939,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4351,
+                "stars": 4349,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:02:11.765Z",
+    "last_updated": "2026-10-07T19:30:42.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1241,7 +1241,7 @@
       "open_issues": 5,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1971,
+      "stars": 1973,
       "topics": [
         "awesome",
         "awesome-list",
