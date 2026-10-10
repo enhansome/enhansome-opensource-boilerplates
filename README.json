@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16169,
+            "stars": 16176,
             "topics": [
               "nextjs",
               "postgres",
@@ -124,7 +124,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1390,
+            "stars": 1388,
             "topics": [
               "analytics",
               "backend",
@@ -196,7 +196,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 173,
+            "stars": 172,
             "topics": [
               "ai-agents",
               "go",
@@ -337,7 +337,7 @@
                 "open_issues": 55,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16169,
+                "stars": 16176,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6716,
+                "stars": 6718,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -432,7 +432,7 @@
                 "open_issues": 20,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1390,
+                "stars": 1388,
                 "topics": [
                   "analytics",
                   "backend",
@@ -473,7 +473,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 173,
+                "stars": 172,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -939,7 +939,7 @@
                 "open_issues": 10,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6812,
+                "stars": 6813,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1023,7 +1023,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45854,
+                "stars": 45855,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1089,7 +1089,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-07T01:18:58Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
                 "stars": 19936,
@@ -1154,7 +1154,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-08T18:10:32Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
                 "stars": 4349,
@@ -1194,7 +1194,7 @@
                 "open_issues": 11,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
-                "stars": 517,
+                "stars": 518,
                 "topics": [
                   "ai-coding",
                   "android",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:58:24.170Z",
+    "last_updated": "2026-10-10T17:59:31.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
