@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-11T22:35:37Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16176,
+            "stars": 16179,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4942,
+            "stars": 4943,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -196,7 +196,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "ai-agents",
               "go",
@@ -334,10 +334,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-12-11T22:35:37Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16176,
+                "stars": 16179,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13079,
+                "stars": 13080,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6718,
+                "stars": 6717,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -473,7 +473,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4942,
+                "stars": 4943,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -708,7 +708,7 @@
                 "open_issues": 3,
                 "owner": "tedivm",
                 "repo": "robs_awesome_python_template",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "boilerplate",
                   "celery",
@@ -1023,7 +1023,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45855,
+                "stars": 45857,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1157,7 +1157,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4349,
+                "stars": 4350,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1219,6 +1219,39 @@
                 ]
               },
               "first_seen": "2026-08-28T23:11:50.908Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mobile App Code Template",
+              "description": "MIT-licensed Expo + Supabase starter with email auth, deep links for confirmation and password reset, in-app account deletion, row level security, and Jest tests for the auth flows (Expo SDK 57).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Everything your app needs before it is an app. Sign-in, a real database, and a working build for iOS and Android. Expo + React Native + Supabase.",
+                "homepage": "https://www.native.express",
+                "id": 1404399440,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-05T16:44:45Z",
+                "open_issues": 0,
+                "owner": "robinsadeghpour",
+                "repo": "mobile-app-code-template",
+                "stars": 5,
+                "topics": [
+                  "android",
+                  "authentication",
+                  "boilerplate",
+                  "expo",
+                  "expo-router",
+                  "ios",
+                  "mobile-app",
+                  "react-native",
+                  "starter-template",
+                  "supabase",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-11T18:26:09.171Z"
             }
           ],
           "description": null,
@@ -1230,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:59:31.290Z",
+    "last_updated": "2026-10-11T18:26:09.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1238,11 +1271,11 @@
       "id": 886124544,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-29T12:17:04Z",
+      "last_commit": "2026-10-10T21:17:36Z",
       "open_issues": 5,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1974,
+      "stars": 1976,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1260,7 +1293,7 @@
         "templates"
       ]
     },
-    "original_repository_sha": "51322e46f86fa20a90198612ea60fce80c1a78ae",
+    "original_repository_sha": "9f30b99bfafdef8e821df8f11fd975d25f0eccff",
     "enhanced_repository": "enhansome/enhansome-opensource-boilerplates",
     "enhanced_repository_description": null,
     "title": "Awesome Open Source SaaS Boilerplates with stars"
