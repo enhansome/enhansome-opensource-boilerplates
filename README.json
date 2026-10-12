@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16179,
+            "stars": 16183,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 49,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4943,
+            "stars": 4946,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4519,
+            "stars": 4521,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -124,7 +124,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1388,
+            "stars": 1390,
             "topics": [
               "analytics",
               "backend",
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "ai-agents",
               "alpinejs",
@@ -302,7 +302,7 @@
             "open_issues": 6,
             "owner": "NekitCorp",
             "repo": "chrome-extension-svelte-typescript-boilerplate",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "boilerplate",
               "chrome-extension",
@@ -337,7 +337,7 @@
                 "open_issues": 56,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16179,
+                "stars": 16183,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -432,7 +432,7 @@
                 "open_issues": 20,
                 "owner": "nextacular",
                 "repo": "nextacular",
-                "stars": 1388,
+                "stars": 1390,
                 "topics": [
                   "analytics",
                   "backend",
@@ -559,7 +559,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35251,
+                "stars": 35250,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -587,7 +587,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4943,
+                "stars": 4946,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4519,
+                "stars": 4521,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -780,7 +780,7 @@
                 "open_issues": 0,
                 "owner": "speedpy",
                 "repo": "speedpy",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "ai-agents",
                   "alpinejs",
@@ -847,7 +847,7 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-03T22:09:37Z",
+                "last_commit": "2026-10-12T21:40:06Z",
                 "open_issues": 4,
                 "owner": "level09",
                 "repo": "enferno",
@@ -978,7 +978,7 @@
                 "open_issues": 0,
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "aspire-dashboard",
                   "clean-architecture",
@@ -1023,7 +1023,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45857,
+                "stars": 45854,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1052,11 +1052,11 @@
                 "id": 68070155,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-09T17:21:03Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-12T20:55:49Z",
+                "open_issues": 2,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "cocoapods",
                   "github-template",
@@ -1092,7 +1092,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19936,
+                "stars": 19937,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1157,7 +1157,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4350,
+                "stars": 4351,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1236,7 +1236,7 @@
                 "open_issues": 0,
                 "owner": "robinsadeghpour",
                 "repo": "mobile-app-code-template",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "android",
                   "authentication",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:26:09.171Z",
+    "last_updated": "2026-10-12T21:51:11.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1275,7 +1275,7 @@
       "open_issues": 5,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1976,
+      "stars": 1975,
       "topics": [
         "awesome",
         "awesome-list",
