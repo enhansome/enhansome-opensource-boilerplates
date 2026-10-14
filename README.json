@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-11T22:35:37Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16187,
+            "stars": 16188,
             "topics": [
               "nextjs",
               "postgres",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4523,
+            "stars": 4525,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -334,10 +334,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-12-11T22:35:37Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16187,
+                "stars": 16188,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6719,
+                "stars": 6720,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -555,11 +555,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:54:45Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-14T17:26:15Z",
+                "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4523,
+                "stars": 4525,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -940,10 +940,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-09T04:09:06Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6814,
+                "stars": 6815,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1027,7 +1027,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45860,
+                "stars": 45863,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1060,7 +1060,7 @@
                 "open_issues": 2,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
-                "stars": 490,
+                "stars": 489,
                 "topics": [
                   "cocoapods",
                   "github-template",
@@ -1161,7 +1161,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4350,
+                "stars": 4349,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:57:19.506Z",
+    "last_updated": "2026-10-14T18:09:42.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1279,7 +1279,7 @@
       "open_issues": 6,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1977,
+      "stars": 1979,
       "topics": [
         "awesome",
         "awesome-list",
