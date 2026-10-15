@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16188,
+            "stars": 16187,
             "topics": [
               "nextjs",
               "postgres",
@@ -45,7 +45,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4947,
+            "stars": 4949,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -84,7 +84,7 @@
             "open_issues": 20,
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4525,
+            "stars": 4526,
             "topics": [
               "aws-s3",
               "aws-ses",
@@ -165,7 +165,7 @@
             "open_issues": 3,
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "boilerplate",
               "cookiecutter",
@@ -196,7 +196,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "ai-agents",
               "go",
@@ -337,7 +337,7 @@
                 "open_issues": 57,
                 "owner": "nextjs",
                 "repo": "saas-starter",
-                "stars": 16188,
+                "stars": 16187,
                 "topics": [
                   "nextjs",
                   "postgres",
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13083,
+                "stars": 13085,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -473,7 +473,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -587,7 +587,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4947,
+                "stars": 4949,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -626,7 +626,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4525,
+                "stars": 4526,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -749,7 +749,7 @@
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 207,
+                "stars": 206,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -820,7 +820,7 @@
                 "open_issues": 270,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4963,
+                "stars": 4962,
                 "topics": [
                   "authentication",
                   "crud",
@@ -847,8 +847,8 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-12T21:56:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-15T17:23:39Z",
+                "open_issues": 0,
                 "owner": "level09",
                 "repo": "enferno",
                 "stars": 568,
@@ -940,10 +940,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-09T04:09:06Z",
-                "open_issues": 12,
+                "open_issues": 25,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6815,
+                "stars": 6818,
                 "topics": [
                   "aws",
                   "blazor",
@@ -1027,7 +1027,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45863,
+                "stars": 45866,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1056,7 +1056,7 @@
                 "id": 68070155,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T16:24:17Z",
+                "last_commit": "2026-10-14T20:57:36Z",
                 "open_issues": 2,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
@@ -1096,7 +1096,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19939,
+                "stars": 19940,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -1161,7 +1161,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4349,
+                "stars": 4351,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:09:42.046Z",
+    "last_updated": "2026-10-15T17:52:17.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1276,7 +1276,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-10T21:17:36Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
       "stars": 1979,
