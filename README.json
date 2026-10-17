@@ -192,9 +192,9 @@
             "id": 1164156051,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-03-05T18:12:51Z",
+            "last_commit": "2026-10-17T00:33:01Z",
             "open_issues": 2,
-            "owner": "jonradoff",
+            "owner": "metavert-io",
             "repo": "lastsaas",
             "stars": 176,
             "topics": [
@@ -363,7 +363,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13088,
+                "stars": 13089,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -405,7 +405,7 @@
                 "open_issues": 23,
                 "owner": "vercel",
                 "repo": "platforms",
-                "stars": 6719,
+                "stars": 6720,
                 "topics": [
                   "multi-tenancy",
                   "multi-tenant-applications",
@@ -469,9 +469,9 @@
                 "id": 1164156051,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-03-05T18:12:51Z",
+                "last_commit": "2026-10-17T00:33:01Z",
                 "open_issues": 2,
-                "owner": "jonradoff",
+                "owner": "metavert-io",
                 "repo": "lastsaas",
                 "stars": 176,
                 "topics": [
@@ -666,7 +666,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1830,
+                "stars": 1831,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -940,7 +940,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-09T04:09:06Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
                 "stars": 6818,
@@ -1027,7 +1027,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45869,
+                "stars": 45875,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:41:06.486Z",
+    "last_updated": "2026-10-17T16:38:50.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -1276,7 +1276,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-10T21:17:36Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
       "stars": 1979,
