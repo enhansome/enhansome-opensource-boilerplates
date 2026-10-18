@@ -1,8 +1,8 @@
 # Awesome Open Source SaaS Boilerplates with stars
 
-> A curated collection of free Open-Source SaaS boilerplates and starter templates to build your next software-as-a-service project. Features enterprise-grade stacks from React/Node.js to Python/Django solutions.
+> A curated collection of free open source boilerplates and starter templates for SaaS, web, mobile and browser extension projects. Features stacks from React/Node.js to Python/Django and .NET.
 
-## Sponsors
+<p align="center"><b>Sponsors</b></p>
 
 <div align="center">
   <br>
@@ -30,7 +30,7 @@
   <div>
     <a href="https://featherflow.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
       <div>
-        <img src="/featherflowlogo2.png" width="300" alt="FeatherFlow">
+        <img src="assets/featherflow-logo.png" width="300" alt="FeatherFlow">
       </div>
       <br>
       <b>We design and build AI products from strategy to launch</b>
@@ -54,10 +54,9 @@
 * [Browser Extensions](#browser-extensions)
 * [Web Development](#web-development)
   * [React & Next.js](#react--nextjs)
-  * [Sveltekit](#Sveltekit)
+  * [SvelteKit](#sveltekit)
   * [Node.js](#nodejs)
   * [Python](#python)
-  * [Django](#django)
   * [Flask](#flask)
   * [Ruby on Rails](#ruby-on-rails)
   * [.NET Core](#net-core)
@@ -69,88 +68,73 @@
 
 ## Open Source SaaS Boilerplates
 
-Production-ready, open source templates for building software-as-a-service applications:
+Production-ready, open source templates for building software-as-a-service applications, with authentication and billing included:
 
-* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,191 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with Postgres, Stripe, and shadcn/ui.
-* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,951 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
-* [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) ⭐ 4,527 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Production-ready with team collaboration.
-* [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,390 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js with workspaces and subscription management.
-* [djangorocket](https://github.com/ernestofgonzalez/djangorocket) ⭐ 206 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - Django SaaS starter.
-* [LastSaaS](https://github.com/jonradoff/lastsaas) ⭐ 176 | 🐛 2 | 🌐 Go | 📅 2026-10-17 - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
-* [SpeedPy](https://github.com/speedpy/speedpy) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-09-09 - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
-* [Open SaaS](https://opensaas.sh) - React/Node.js/Prisma stack with Stripe/Polar.sh/Lemon Squeezy, OpenAI, AWS S3, admin dashboard & blog.
-* [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
+* [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,695 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-12 - Full-stack React 19, tRPC, and Drizzle monorepo on Cloudflare Workers with Better Auth organizations, Stripe billing, and an Astro marketing site.
+* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,191 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
+* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,950 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
+* [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,389 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js with workspaces and subscription management.
+* [Hikari](https://github.com/coremvp/Hikari) ⭐ 391 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09 - Next.js starter with Supabase authentication and Stripe subscription billing for individual-account apps.
+* [djangorocket](https://github.com/ernestofgonzalez/djangorocket) ⭐ 206 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - Django SaaS boilerplate with Stripe subscriptions, REST API, Tailwind CSS, Celery and Docker.
+* [LastSaaS](https://github.com/metavert-io/lastsaas) ⭐ 176 | 🐛 2 | 🌐 Go | 📅 2026-10-17 - AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+* [SpeedPy](https://github.com/speedpy/speedpy) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-09-09 - Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
+* [Open SaaS](https://opensaas.sh) - React, Node.js and Prisma stack with Stripe, Polar.sh or Lemon Squeezy, OpenAI, AWS S3, admin dashboard and blog.
+* [fireact.dev](https://fireact.dev) - React/TypeScript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 * [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
 
 ## Browser Extensions
 
-* [Extro](https://github.com/turbostarter/extro) ⭐ 413 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 - Open source browser extension starter kit.
-* [chrome extension svelte-typescript boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) ⭐ 298 | 🐛 6 | 🌐 TypeScript | 📅 2025-01-06 - Boilerplate for Chrome Extension Svelte Typescript project.
+* [Extro](https://github.com/turbostarter/extro) ⭐ 413 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 - TypeScript browser extension starter with OAuth, storage, messaging, i18n, hot reloading and one-click publishing.
 
 ## Web Development
 
 ### React & Next.js
 
-* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,191 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-* [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,089 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Free and open source Next.js starter.
-* [Platforms Starter Kit](https://github.com/vercel/platforms) ⭐ 6,720 | 🐛 23 | 🌐 TypeScript | 📅 2026-07-08 - The all-in-one starter kit for building multi-tenant applications.
-* [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,390 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js SaaS boilerplate.
-* [LastSaaS](https://github.com/jonradoff/lastsaas) ⭐ 176 | 🐛 2 | 🌐 Go | 📅 2026-10-17 - Open-source AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
-* [Open SaaS -- React/Node.js/Prisma](https://opensaas.sh) - Stripe, Polar.sh, or Lemon Squeezy, OpenAI API app examples, AWS S3 file upload, Admin dashboard, & Blog w/ Astro.
-* [fireact.dev](https://fireact.dev) - React/Typescript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
-* [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
+* [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,085 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Next.js starter with TypeScript, Tailwind CSS, Drizzle ORM, Vitest, Playwright, Storybook and Sentry.
 
-### Sveltekit
+### SvelteKit
 
-* [CMSSaasstarter](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,369 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+* [CMSaasStarter](https://github.com/scosman/CMSaasStarter) ⭐ 2,368 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - SvelteKit, Tailwind CSS and Supabase template with marketing pages, blog, subscriptions, auth, user dashboard and pricing page.
 
 ### Node.js
 
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,253 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14 - Boilerplate for Node.js web applications.
-* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,951 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready SaaS starter kit.
-* [SaaS Boilerplate by Async Labs](https://github.com/async-labs/saas) ⭐ 4,527 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Production-ready SaaS boilerplate.
-* [Graphile Starter](https://github.com/graphile/starter) ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 - Full-stack application boilerplate.
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,252 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14 - Node.js and Express boilerplate with authentication via many OAuth providers and ready-made API examples.
+* [Graphile Starter](https://github.com/graphile/starter) ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 - SaaS quick-start with user accounts and organizations, built on React, Node.js, GraphQL, PostgreSQL and PostGraphile.
 
 ### Python
 
 * [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) ⭐ 312 | 🐛 3 | 🌐 Python | 📅 2026-05-16 - A versatile and modern Python template.
 
-### Django
-
-* [djangorocket](https://github.com/ernestofgonzalez/djangorocket) ⭐ 206 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - Django SaaS starter.
-* [SpeedPy](https://github.com/speedpy/speedpy) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-09-09 - Free, MIT-licensed Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
-
 ### Flask
 
-* [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,962 | 🐛 270 | 🌐 Python | 📅 2026-10-08 - Simple and rapid application development framework.
-* [Enferno Framework](https://github.com/level09/enferno) ⭐ 568 | 🐛 0 | 🌐 HTML | 📅 2026-10-16 - Flask based framework.
+* [Enferno Framework](https://github.com/level09/enferno) ⭐ 568 | 🐛 0 | 🌐 HTML | 📅 2026-10-16 - Flask starter with Vue 3 and Vuetify without a build step, plus auth with 2FA, passkeys and OAuth.
 
 ### Ruby on Rails
 
-* [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) ⭐ 202 | 🐛 10 | 🌐 Ruby | 📅 2026-09-12 - Ruby on Rails starter kit.
+* [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) ⭐ 202 | 🐛 10 | 🌐 Ruby | 📅 2026-09-12 - Rails 8 starter with Tabler UI, Hotwire, Devise, Pundit, multi-tenancy and Kamal deployment.
 
 ### .NET Core
 
-* [FullStackHero .NET 8 Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,818 | 🐛 26 | 🌐 C# | 📅 2026-10-09 - With ASP.NET Core Web API & Blazor Client.
+* [FullStackHero .NET Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,818 | 🐛 26 | 🌐 C# | 📅 2026-10-09 - Multi-tenant .NET starter with ASP.NET Core Web API and a Blazor client.
 * [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) ⭐ 297 | 🐛 0 | 🌐 C# | 📅 2026-07-24 - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 
 ## Mobile Development
 
 ### Android
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,875 | 🐛 228 | 🌐 Kotlin | 📅 2026-10-13 - MVP architecture samples.
+* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,877 | 🐛 228 | 🌐 Kotlin | 📅 2026-10-13 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
 
 ### iOS
 
-* [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) ⭐ 489 | 🐛 2 | 🌐 Swift | 📅 2026-10-14 - Boilerplate for reusable Swift 5 modules.
+* [Swift 6 Module Template](https://github.com/fulldecent/swift6-module-template) ⭐ 489 | 🐛 2 | 🌐 Swift | 📅 2026-10-14 - Boilerplate for reusable Swift 6 modules.
 
 ### React Native
 
-* [Infinite Red Boilerplate](https://github.com/infinitered/ignite) ⭐ 19,942 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
-* [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) ⭐ 5,564 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-30 - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙.
-* [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) ⭐ 4,355 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-08 - A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
-* [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) ⭐ 518 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-13 - Expo + Redux + React Navigation pre-setup typescript template (expo SDK 51).
-* [Mobile App Code Template](https://github.com/robinsadeghpour/mobile-app-code-template) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-05 - MIT-licensed Expo + Supabase starter with email auth, deep links for confirmation and password reset, in-app account deletion, row level security, and Jest tests for the auth flows (Expo SDK 57).
+* [Infinite Red Boilerplate](https://github.com/infinitered/ignite) ⭐ 19,940 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
+* [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) ⭐ 5,564 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-30 - React Native template for JavaScript or TypeScript apps that separates UI from business logic.
+* [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) ⭐ 4,355 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-08 - A template for your next React Native project: Expo, PNPM, TypeScript, Tailwind CSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
+* [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) ⭐ 518 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - Expo + Redux + React Navigation pre-setup TypeScript template (Expo SDK 51).
+* [Mobile App Code Template](https://github.com/robinsadeghpour/mobile-app-code-template) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-05 - Expo + Supabase starter with email auth, deep links for confirmation and password reset, in-app account deletion, row level security, and Jest tests for the auth flows (Expo SDK 57).
 
 ## Star History
 
@@ -158,4 +142,4 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
