@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16193,
+            "stars": 16192,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4954,
+            "stars": 4956,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2368,
+                "stars": 2367,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -389,11 +389,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T13:30:07Z",
+                "last_commit": "2026-10-21T13:32:36Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -500,8 +500,8 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-20T14:53:54Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-21T11:42:17Z",
+                "open_issues": 2,
                 "owner": "level09",
                 "repo": "enferno",
                 "stars": 568,
@@ -596,7 +596,7 @@
                 "open_issues": 26,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6821,
+                "stars": 6824,
                 "topics": [
                   "aws",
                   "blazor",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45876,
+                "stars": 45881,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -710,7 +710,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-14T20:57:36Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "fulldecent",
                 "repo": "swift6-module-template",
                 "stars": 489,
@@ -749,7 +749,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19942,
+                "stars": 19943,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -778,7 +778,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5563,
+                "stars": 5562,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -814,7 +814,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4355,
+                "stars": 4356,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:05:55.796Z",
+    "last_updated": "2026-10-21T18:14:55.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -932,7 +932,7 @@
       "open_issues": 0,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1979,
+      "stars": 1980,
       "topics": [
         "awesome",
         "awesome-list",
