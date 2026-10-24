@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23697,
+            "stars": 23698,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16199,
+            "stars": 16220,
             "topics": [
               "nextjs",
               "postgres",
@@ -393,7 +393,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35253,
+                "stars": 35255,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -596,7 +596,7 @@
                 "open_issues": 26,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6827,
+                "stars": 6829,
                 "topics": [
                   "aws",
                   "blazor",
@@ -635,7 +635,7 @@
                 "open_issues": 0,
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-                "stars": 297,
+                "stars": 296,
                 "topics": [
                   "aspire-dashboard",
                   "clean-architecture",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45869,
+                "stars": 45871,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -814,7 +814,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4357,
+                "stars": 4358,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:56:56.801Z",
+    "last_updated": "2026-10-24T16:55:56.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -932,7 +932,7 @@
       "open_issues": 0,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1982,
+      "stars": 1981,
       "topics": [
         "awesome",
         "awesome-list",
