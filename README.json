@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23703,
+            "stars": 23702,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -87,7 +87,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4959,
+            "stars": 4961,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -296,7 +296,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13091,
+                "stars": 13092,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2369,
+                "stars": 2370,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -500,7 +500,7 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-22T22:32:39Z",
+                "last_commit": "2026-10-28T13:50:22Z",
                 "open_issues": 0,
                 "owner": "level09",
                 "repo": "enferno",
@@ -596,7 +596,7 @@
                 "open_issues": 27,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6833,
+                "stars": 6835,
                 "topics": [
                   "aws",
                   "blazor",
@@ -676,7 +676,7 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T19:36:56Z",
+                "last_commit": "2026-10-28T17:15:09Z",
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
@@ -814,7 +814,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4360,
+                "stars": 4359,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:56:37.050Z",
+    "last_updated": "2026-10-28T19:04:50.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
