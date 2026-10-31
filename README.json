@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23705,
+            "stars": 23704,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16238,
+            "stars": 16240,
             "topics": [
               "nextjs",
               "postgres",
@@ -296,7 +296,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13090,
+                "stars": 13091,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35260,
+                "stars": 35259,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -421,7 +421,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1831,
+                "stars": 1832,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -500,7 +500,7 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:50:22Z",
+                "last_commit": "2026-10-31T11:28:30Z",
                 "open_issues": 0,
                 "owner": "level09",
                 "repo": "enferno",
@@ -552,7 +552,7 @@
                 "open_issues": 10,
                 "owner": "tarunvelli",
                 "repo": "rails-tabler-starter",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "admin-dashboard",
                   "admin-panel",
@@ -676,11 +676,11 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T17:15:09Z",
+                "last_commit": "2026-10-30T22:35:43Z",
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45873,
+                "stars": 45881,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -749,7 +749,7 @@
                 "open_issues": 41,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19948,
+                "stars": 19950,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:49:34.074Z",
+    "last_updated": "2026-10-31T17:54:49.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",

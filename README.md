@@ -70,8 +70,8 @@
 
 Production-ready, open source templates for building software-as-a-service applications, with authentication and billing included:
 
-* [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,705 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-26 - Full-stack React 19, tRPC, and Drizzle monorepo on Cloudflare Workers with Better Auth organizations, Stripe billing, and an Astro marketing site.
-* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,238 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
+* [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,704 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-26 - Full-stack React 19, tRPC, and Drizzle monorepo on Cloudflare Workers with Better Auth organizations, Stripe billing, and an Astro marketing site.
+* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,240 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
 * [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,964 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 * [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,395 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js with workspaces and subscription management.
 * [Hikari](https://github.com/coremvp/Hikari) ⭐ 390 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09 - Next.js starter with Supabase authentication and Stripe subscription billing for individual-account apps.
@@ -90,7 +90,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### React & Next.js
 
-* [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,090 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Next.js starter with TypeScript, Tailwind CSS, Drizzle ORM, Vitest, Playwright, Storybook and Sentry.
+* [Next.js Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,091 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Next.js starter with TypeScript, Tailwind CSS, Drizzle ORM, Vitest, Playwright, Storybook and Sentry.
 
 ### SvelteKit
 
@@ -98,8 +98,8 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Node.js
 
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,260 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-30 - Node.js and Express boilerplate with authentication via many OAuth providers and ready-made API examples.
-* [Graphile Starter](https://github.com/graphile/starter) ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 - SaaS quick-start with user accounts and organizations, built on React, Node.js, GraphQL, PostgreSQL and PostGraphile.
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,259 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-30 - Node.js and Express boilerplate with authentication via many OAuth providers and ready-made API examples.
+* [Graphile Starter](https://github.com/graphile/starter) ⭐ 1,832 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 - SaaS quick-start with user accounts and organizations, built on React, Node.js, GraphQL, PostgreSQL and PostGraphile.
 
 ### Python
 
@@ -107,11 +107,11 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Flask
 
-* [Enferno Framework](https://github.com/level09/enferno) ⭐ 568 | 🐛 0 | 🌐 HTML | 📅 2026-10-28 - Flask starter with Vue 3 and Vuetify without a build step, plus auth with 2FA, passkeys and OAuth.
+* [Enferno Framework](https://github.com/level09/enferno) ⭐ 568 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 - Flask starter with Vue 3 and Vuetify without a build step, plus auth with 2FA, passkeys and OAuth.
 
 ### Ruby on Rails
 
-* [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) ⭐ 202 | 🐛 10 | 🌐 Ruby | 📅 2026-09-12 - Rails 8 starter with Tabler UI, Hotwire, Devise, Pundit, multi-tenancy and Kamal deployment.
+* [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) ⭐ 203 | 🐛 10 | 🌐 Ruby | 📅 2026-09-12 - Rails 8 starter with Tabler UI, Hotwire, Devise, Pundit, multi-tenancy and Kamal deployment.
 
 ### .NET Core
 
@@ -122,7 +122,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Android
 
-* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,873 | 🐛 228 | 🌐 Kotlin | 📅 2026-10-28 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
+* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,881 | 🐛 228 | 🌐 Kotlin | 📅 2026-10-30 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
 
 ### iOS
 
@@ -130,7 +130,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### React Native
 
-* [Infinite Red Boilerplate](https://github.com/infinitered/ignite) ⭐ 19,948 | 🐛 41 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
+* [Infinite Red Boilerplate](https://github.com/infinitered/ignite) ⭐ 19,950 | 🐛 41 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
 * [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) ⭐ 5,563 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-30 - React Native template for JavaScript or TypeScript apps that separates UI from business logic.
 * [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) ⭐ 4,360 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-08 - A template for your next React Native project: Expo, PNPM, TypeScript, Tailwind CSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 * [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) ⭐ 523 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - Expo + Redux + React Navigation pre-setup TypeScript template (Expo SDK 51).
@@ -142,4 +142,4 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
