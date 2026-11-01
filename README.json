@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23704,
+            "stars": 23705,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16240,
+            "stars": 16244,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4964,
+            "stars": 4965,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -126,7 +126,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "analytics",
               "backend",
@@ -224,7 +224,7 @@
             "open_issues": 2,
             "owner": "metavert-io",
             "repo": "lastsaas",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "ai-agents",
               "go",
@@ -292,11 +292,11 @@
                 "id": 281769216,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T00:16:35Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-01T06:15:53Z",
+                "open_issues": 6,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13091,
+                "stars": 13092,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2370,
+                "stars": 2371,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -596,7 +596,7 @@
                 "open_issues": 27,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6841,
+                "stars": 6843,
                 "topics": [
                   "aws",
                   "blazor",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45881,
+                "stars": 45882,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -778,7 +778,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5563,
+                "stars": 5564,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -847,8 +847,8 @@
                 "id": 135783988,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T07:40:58Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-01T02:36:12Z",
+                "open_issues": 1,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
                 "stars": 523,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:54:49.630Z",
+    "last_updated": "2026-11-01T18:32:11.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -932,7 +932,7 @@
       "open_issues": 0,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1983,
+      "stars": 1985,
       "topics": [
         "awesome",
         "awesome-list",
