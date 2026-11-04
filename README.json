@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16250,
+            "stars": 16248,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4966,
+            "stars": 4968,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2372,
+                "stars": 2371,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -592,11 +592,11 @@
                 "id": 398181340,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-03T18:35:16Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-04T11:35:49Z",
+                "open_issues": 5,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6845,
+                "stars": 6849,
                 "topics": [
                   "aws",
                   "blazor",
@@ -635,7 +635,7 @@
                 "open_issues": 0,
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "aspire-dashboard",
                   "clean-architecture",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45888,
+                "stars": 45889,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -749,7 +749,7 @@
                 "open_issues": 41,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19950,
+                "stars": 19951,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -814,7 +814,7 @@
                 "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4362,
+                "stars": 4363,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:15:50.160Z",
+    "last_updated": "2026-11-04T20:31:47.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -932,7 +932,7 @@
       "open_issues": 0,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1987,
+      "stars": 1988,
       "topics": [
         "awesome",
         "awesome-list",

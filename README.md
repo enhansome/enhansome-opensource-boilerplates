@@ -71,8 +71,8 @@
 Production-ready, open source templates for building software-as-a-service applications, with authentication and billing included:
 
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,705 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-02 - Full-stack React 19, tRPC, and Drizzle monorepo on Cloudflare Workers with Better Auth organizations, Stripe billing, and an Astro marketing site.
-* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,250 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
-* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,966 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
+* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,248 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
+* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,968 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
 * [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,396 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js with workspaces and subscription management.
 * [Hikari](https://github.com/coremvp/Hikari) ⭐ 391 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09 - Next.js starter with Supabase authentication and Stripe subscription billing for individual-account apps.
 * [djangorocket](https://github.com/ernestofgonzalez/djangorocket) ⭐ 208 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - Django SaaS boilerplate with Stripe subscriptions, REST API, Tailwind CSS, Celery and Docker.
@@ -94,7 +94,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### SvelteKit
 
-* [CMSaasStarter](https://github.com/scosman/CMSaasStarter) ⭐ 2,372 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - SvelteKit, Tailwind CSS and Supabase template with marketing pages, blog, subscriptions, auth, user dashboard and pricing page.
+* [CMSaasStarter](https://github.com/scosman/CMSaasStarter) ⭐ 2,371 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - SvelteKit, Tailwind CSS and Supabase template with marketing pages, blog, subscriptions, auth, user dashboard and pricing page.
 
 ### Node.js
 
@@ -115,14 +115,14 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### .NET Core
 
-* [FullStackHero .NET Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,845 | 🐛 6 | 🌐 C# | 📅 2026-11-03 - Multi-tenant .NET starter with ASP.NET Core Web API and a Blazor client.
-* [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) ⭐ 296 | 🐛 0 | 🌐 C# | 📅 2026-07-24 - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
+* [FullStackHero .NET Starter Kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,849 | 🐛 5 | 🌐 C# | 📅 2026-11-04 - Multi-tenant .NET starter with ASP.NET Core Web API and a Blazor client.
+* [Clean Architecture and Domain Driven Design Template](https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template) ⭐ 297 | 🐛 0 | 🌐 C# | 📅 2026-07-24 - .NET Core solution template for creating your own application using Clean Architecture, utilizing building blocks from Domain-Driven Design.
 
 ## Mobile Development
 
 ### Android
 
-* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,888 | 🐛 228 | 🌐 Kotlin | 📅 2026-11-03 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
+* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,889 | 🐛 228 | 🌐 Kotlin | 📅 2026-11-03 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
 
 ### iOS
 
@@ -130,9 +130,9 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### React Native
 
-* [Infinite Red Boilerplate](https://github.com/infinitered/ignite) ⭐ 19,950 | 🐛 41 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
+* [Infinite Red Boilerplate](https://github.com/infinitered/ignite) ⭐ 19,951 | 🐛 41 | 🌐 TypeScript | 📅 2026-06-07 - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more.
 * [thecodingmachine boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) ⭐ 5,565 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-30 - React Native template for JavaScript or TypeScript apps that separates UI from business logic.
-* [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) ⭐ 4,362 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-08 - A template for your next React Native project: Expo, PNPM, TypeScript, Tailwind CSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
+* [obytes boilerplate](https://github.com/obytes/react-native-template-obytes) ⭐ 4,363 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-08 - A template for your next React Native project: Expo, PNPM, TypeScript, Tailwind CSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 * [wataru-maeda boilerplate](https://github.com/wataru-maeda/react-native-boilerplate) ⭐ 523 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01 - Expo + Redux + React Navigation pre-setup TypeScript template (Expo SDK 51).
 * [Mobile App Code Template](https://github.com/robinsadeghpour/mobile-app-code-template) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-05 - Expo + Supabase starter with email auth, deep links for confirmation and password reset, in-app account deletion, row level security, and Jest tests for the auth flows (Expo SDK 57).
 
@@ -142,4 +142,4 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
