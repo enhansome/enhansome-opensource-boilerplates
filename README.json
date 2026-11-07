@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23708,
+            "stars": 23709,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16247,
+            "stars": 16249,
             "topics": [
               "nextjs",
               "postgres",
@@ -224,7 +224,7 @@
             "open_issues": 2,
             "owner": "metavert-io",
             "repo": "lastsaas",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "ai-agents",
               "go",
@@ -296,7 +296,7 @@
                 "open_issues": 6,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13091,
+                "stars": 13089,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2371,
+                "stars": 2372,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35264,
+                "stars": 35263,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -596,7 +596,7 @@
                 "open_issues": 5,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6857,
+                "stars": 6859,
                 "topics": [
                   "aws",
                   "blazor",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45888,
+                "stars": 45892,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:03:51.196Z",
+    "last_updated": "2026-11-07T18:16:49.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
