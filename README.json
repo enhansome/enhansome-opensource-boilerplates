@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23709,
+            "stars": 23708,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16249,
+            "stars": 16247,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4972,
+            "stars": 4973,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -224,7 +224,7 @@
             "open_issues": 2,
             "owner": "metavert-io",
             "repo": "lastsaas",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "ai-agents",
               "go",
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35263,
+                "stars": 35262,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45892,
+                "stars": 45896,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -814,7 +814,7 @@
                 "open_issues": 11,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4363,
+                "stars": 4362,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:16:49.482Z",
+    "last_updated": "2026-11-08T18:29:09.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
