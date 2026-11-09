@@ -15,11 +15,11 @@
             "id": 18840003,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T04:14:05Z",
+            "last_commit": "2026-11-09T04:14:46Z",
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23708,
+            "stars": 23710,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16247,
+            "stars": 16250,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 50,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4973,
+            "stars": 4975,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -167,7 +167,7 @@
             "open_issues": 5,
             "owner": "coremvp",
             "repo": "Hikari",
-            "stars": 391,
+            "stars": 390,
             "topics": [
               "nextjs",
               "stripe",
@@ -296,7 +296,7 @@
                 "open_issues": 6,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13089,
+                "stars": 13091,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2372,
+                "stars": 2374,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -504,7 +504,7 @@
                 "open_issues": 1,
                 "owner": "level09",
                 "repo": "enferno",
-                "stars": 569,
+                "stars": 571,
                 "topics": [
                   "agents-md",
                   "ai-agents",
@@ -596,7 +596,7 @@
                 "open_issues": 5,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6859,
+                "stars": 6861,
                 "topics": [
                   "aws",
                   "blazor",
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45896,
+                "stars": 45894,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -851,7 +851,7 @@
                 "open_issues": 1,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "agents-md",
                   "ai-coding",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:29:09.973Z",
+    "last_updated": "2026-11-09T23:08:11.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
