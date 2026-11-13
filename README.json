@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23714,
+            "stars": 23716,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16249,
+            "stars": 16252,
             "topics": [
               "nextjs",
               "postgres",
@@ -251,7 +251,7 @@
             "id": 1012440838,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T08:07:14Z",
+            "last_commit": "2026-11-13T20:30:20Z",
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
@@ -389,11 +389,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T13:27:50Z",
+                "last_commit": "2026-11-13T13:36:33Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35263,
+                "stars": 35261,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -593,10 +593,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-04T11:35:49Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6864,
+                "stars": 6867,
                 "topics": [
                   "aws",
                   "blazor",
@@ -632,7 +632,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-24T10:34:09Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
                 "stars": 297,
@@ -680,7 +680,7 @@
                 "open_issues": 228,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45900,
+                "stars": 45899,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -778,7 +778,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5563,
+                "stars": 5562,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:04:59.738Z",
+    "last_updated": "2026-11-13T20:38:29.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -929,10 +929,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-18T13:51:30Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1989,
+      "stars": 1990,
       "topics": [
         "awesome",
         "awesome-list",
