@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23717,
+            "stars": 23718,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -87,7 +87,7 @@
             "open_issues": 51,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4976,
+            "stars": 4975,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -167,7 +167,7 @@
             "open_issues": 5,
             "owner": "coremvp",
             "repo": "Hikari",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "nextjs",
               "stripe",
@@ -504,7 +504,7 @@
                 "open_issues": 3,
                 "owner": "level09",
                 "repo": "enferno",
-                "stars": 571,
+                "stars": 570,
                 "topics": [
                   "agents-md",
                   "ai-agents",
@@ -596,7 +596,7 @@
                 "open_issues": 2,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6868,
+                "stars": 6869,
                 "topics": [
                   "aws",
                   "blazor",
@@ -635,7 +635,7 @@
                 "open_issues": 1,
                 "owner": "mikolaj-jankowski",
                 "repo": "Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "aspire-dashboard",
                   "clean-architecture",
@@ -677,7 +677,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T00:27:54Z",
-                "open_issues": 228,
+                "open_issues": 229,
                 "owner": "android",
                 "repo": "architecture-samples",
                 "stars": 45902,
@@ -749,7 +749,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19951,
+                "stars": 19954,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -778,7 +778,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5560,
+                "stars": 5561,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -847,8 +847,8 @@
                 "id": 135783988,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T02:36:12Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-15T11:07:44Z",
+                "open_issues": 2,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
                 "stars": 524,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:50:31.841Z",
+    "last_updated": "2026-11-15T19:27:37.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -932,7 +932,7 @@
       "open_issues": 1,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1992,
+      "stars": 1993,
       "topics": [
         "awesome",
         "awesome-list",
