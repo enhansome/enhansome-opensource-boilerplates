@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23718,
+            "stars": 23720,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16256,
+            "stars": 16254,
             "topics": [
               "nextjs",
               "postgres",
@@ -193,7 +193,7 @@
             "open_issues": 3,
             "owner": "ernestofgonzalez",
             "repo": "djangorocket",
-            "stars": 208,
+            "stars": 207,
             "topics": [
               "boilerplate",
               "cookiecutter",
@@ -224,7 +224,7 @@
             "open_issues": 2,
             "owner": "metavert-io",
             "repo": "lastsaas",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "ai-agents",
               "go",
@@ -296,7 +296,7 @@
                 "open_issues": 7,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13096,
+                "stars": 13095,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2376,
+                "stars": 2377,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -389,7 +389,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T13:36:07Z",
+                "last_commit": "2026-11-17T13:28:55Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -500,8 +500,8 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-14T07:35:53Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-17T21:48:31Z",
+                "open_issues": 0,
                 "owner": "level09",
                 "repo": "enferno",
                 "stars": 570,
@@ -596,7 +596,7 @@
                 "open_issues": 2,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6869,
+                "stars": 6868,
                 "topics": [
                   "aws",
                   "blazor",
@@ -749,7 +749,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19954,
+                "stars": 19955,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4372,
+                "stars": 4375,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:00:36.097Z",
+    "last_updated": "2026-11-17T21:53:28.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
