@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23720,
+            "stars": 23723,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -58,10 +58,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-11T22:35:37Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16254,
+            "stars": 16259,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 51,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4973,
+            "stars": 4972,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -126,7 +126,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1398,
+            "stars": 1397,
             "topics": [
               "analytics",
               "backend",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2377,
+                "stars": 2376,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35259,
+                "stars": 35260,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -593,10 +593,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-14T16:33:28Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6868,
+                "stars": 6869,
                 "topics": [
                   "aws",
                   "blazor",
@@ -680,7 +680,7 @@
                 "open_issues": 230,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45900,
+                "stars": 45904,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -749,7 +749,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19955,
+                "stars": 19956,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:53:28.553Z",
+    "last_updated": "2026-11-18T21:34:12.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
