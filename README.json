@@ -84,7 +84,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-20T08:15:05Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
             "stars": 4972,
@@ -220,11 +220,11 @@
             "id": 1164156051,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:33:01Z",
+            "last_commit": "2026-11-18T22:39:51Z",
             "open_issues": 2,
             "owner": "metavert-io",
             "repo": "lastsaas",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "ai-agents",
               "go",
@@ -255,7 +255,7 @@
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "ai-agents",
               "alpinejs",
@@ -296,7 +296,7 @@
                 "open_issues": 7,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13095,
+                "stars": 13094,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -389,7 +389,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T13:28:55Z",
+                "last_commit": "2026-11-19T13:28:21Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -421,7 +421,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1832,
+                "stars": 1831,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -504,7 +504,7 @@
                 "open_issues": 0,
                 "owner": "level09",
                 "repo": "enferno",
-                "stars": 570,
+                "stars": 569,
                 "topics": [
                   "agents-md",
                   "ai-agents",
@@ -596,7 +596,7 @@
                 "open_issues": 5,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6869,
+                "stars": 6870,
                 "topics": [
                   "aws",
                   "blazor",
@@ -676,11 +676,11 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T00:27:54Z",
+                "last_commit": "2026-11-19T19:42:03Z",
                 "open_issues": 230,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45904,
+                "stars": 45903,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -749,7 +749,7 @@
                 "open_issues": 40,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19956,
+                "stars": 19953,
                 "topics": [
                   "boilerplate",
                   "cli",
@@ -778,7 +778,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5561,
+                "stars": 5560,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4375,
+                "stars": 4376,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -851,7 +851,7 @@
                 "open_issues": 2,
                 "owner": "wataru-maeda",
                 "repo": "react-native-boilerplate",
-                "stars": 525,
+                "stars": 524,
                 "topics": [
                   "agents-md",
                   "ai-coding",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:34:12.164Z",
+    "last_updated": "2026-11-19T21:46:37.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
