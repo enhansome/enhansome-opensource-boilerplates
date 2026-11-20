@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23723,
+            "stars": 23725,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -61,7 +61,7 @@
             "open_issues": 59,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16259,
+            "stars": 16260,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 52,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4972,
+            "stars": 4971,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -126,7 +126,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1397,
+            "stars": 1396,
             "topics": [
               "analytics",
               "backend",
@@ -167,7 +167,7 @@
             "open_issues": 5,
             "owner": "coremvp",
             "repo": "Hikari",
-            "stars": 391,
+            "stars": 390,
             "topics": [
               "nextjs",
               "stripe",
@@ -255,7 +255,7 @@
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "ai-agents",
               "alpinejs",
@@ -292,8 +292,8 @@
                 "id": 281769216,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T06:15:53Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-19T23:40:54Z",
+                "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
                 "stars": 13094,
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2376,
+                "stars": 2374,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -389,11 +389,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:28:21Z",
+                "last_commit": "2026-11-20T13:29:25Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35260,
+                "stars": 35259,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -463,7 +463,7 @@
                 "open_issues": 3,
                 "owner": "tedivm",
                 "repo": "robs_awesome_python_template",
-                "stars": 315,
+                "stars": 314,
                 "topics": [
                   "boilerplate",
                   "celery",
@@ -596,7 +596,7 @@
                 "open_issues": 5,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6870,
+                "stars": 6868,
                 "topics": [
                   "aws",
                   "blazor",
@@ -676,11 +676,11 @@
                 "id": 51148780,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T19:42:03Z",
+                "last_commit": "2026-11-20T05:45:11Z",
                 "open_issues": 230,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45903,
+                "stars": 45902,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -709,8 +709,8 @@
                 "id": 68070155,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-11T00:08:02Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-19T22:28:25Z",
+                "open_issues": 0,
                 "owner": "fulldecent",
                 "repo": "swift-module-template",
                 "stars": 489,
@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4376,
+                "stars": 4375,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:46:37.813Z",
+    "last_updated": "2026-11-20T21:30:54.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
@@ -932,7 +932,7 @@
       "open_issues": 1,
       "owner": "EinGuterWaran",
       "repo": "awesome-opensource-boilerplates",
-      "stars": 1994,
+      "stars": 1993,
       "topics": [
         "awesome",
         "awesome-list",
