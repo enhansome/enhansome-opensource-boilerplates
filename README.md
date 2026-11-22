@@ -71,13 +71,13 @@
 Production-ready, open source templates for building software-as-a-service applications, with authentication and billing included:
 
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,725 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 - Full-stack React 19, tRPC, and Drizzle monorepo on Cloudflare Workers with Better Auth organizations, Stripe billing, and an Astro marketing site.
-* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,260 | 🐛 59 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
-* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,970 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
-* [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,396 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js with workspaces and subscription management.
+* [Next.js SaaS Starter](https://github.com/nextjs/saas-starter) ⭐ 16,262 | 🐛 59 | 🌐 TypeScript | 📅 2025-12-11 - Next.js with PostgreSQL, Stripe, and shadcn/ui.
+* [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,969 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-20 - Enterprise-ready with SSO, audit logs, and multi-tenant features.
+* [Nextacular](https://github.com/nextacular/nextacular) ⭐ 1,397 | 🐛 20 | 🌐 TypeScript | 📅 2026-05-30 - Next.js with workspaces and subscription management.
 * [Hikari](https://github.com/coremvp/Hikari) ⭐ 390 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09 - Next.js starter with Supabase authentication and Stripe subscription billing for individual-account apps.
 * [djangorocket](https://github.com/ernestofgonzalez/djangorocket) ⭐ 207 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - Django SaaS boilerplate with Stripe subscriptions, REST API, Tailwind CSS, Celery and Docker.
-* [LastSaaS](https://github.com/metavert-io/lastsaas) ⭐ 183 | 🐛 2 | 🌐 Go | 📅 2026-11-18 - AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
-* [SpeedPy](https://github.com/speedpy/speedpy) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
+* [LastSaaS](https://github.com/metavert-io/lastsaas) ⭐ 184 | 🐛 2 | 🌐 Go | 📅 2026-11-18 - AI-native SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard. Built with Go, React, TypeScript, and MongoDB.
+* [SpeedPy](https://github.com/speedpy/speedpy) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Django SaaS boilerplate with APIs, teams, billing, and an MCP server for AI agents.
 * [Open SaaS](https://opensaas.sh) - React, Node.js and Prisma stack with Stripe, Polar.sh or Lemon Squeezy, OpenAI, AWS S3, admin dashboard and blog.
 * [fireact.dev](https://fireact.dev) - React/TypeScript stack with Stripe, Firebase and i18n multilingual for B2B SaaS.
 * [PageZERO](https://pagezero.dev) - Cloudflare-native React/TanStack Start SaaS starter.
@@ -94,7 +94,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### SvelteKit
 
-* [CMSaasStarter](https://github.com/scosman/CMSaasStarter) ⭐ 2,375 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - SvelteKit, Tailwind CSS and Supabase template with marketing pages, blog, subscriptions, auth, user dashboard and pricing page.
+* [CMSaasStarter](https://github.com/scosman/CMSaasStarter) ⭐ 2,373 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - SvelteKit, Tailwind CSS and Supabase template with marketing pages, blog, subscriptions, auth, user dashboard and pricing page.
 
 ### Node.js
 
@@ -107,7 +107,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Flask
 
-* [Enferno Framework](https://github.com/level09/enferno) ⭐ 570 | 🐛 0 | 🌐 HTML | 📅 2026-11-17 - Flask starter with Vue 3 and Vuetify without a build step, plus auth with 2FA, passkeys and OAuth.
+* [Enferno Framework](https://github.com/level09/enferno) ⭐ 570 | 🐛 0 | 🌐 HTML | 📅 2026-11-22 - Flask starter with Vue 3 and Vuetify without a build step, plus auth with 2FA, passkeys and OAuth.
 
 ### Ruby on Rails
 
@@ -122,7 +122,7 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ### Android
 
-* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,904 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-21 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
+* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,908 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-21 - Official samples showcasing architecture patterns for Android apps, including Jetpack Compose and MVVM.
 
 ### iOS
 
@@ -142,4 +142,4 @@ Production-ready, open source templates for building software-as-a-service appli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

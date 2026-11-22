@@ -61,7 +61,7 @@
             "open_issues": 59,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16260,
+            "stars": 16262,
             "topics": [
               "nextjs",
               "postgres",
@@ -87,7 +87,7 @@
             "open_issues": 52,
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4970,
+            "stars": 4969,
             "topics": [
               "boilerplate",
               "boilerplates",
@@ -126,7 +126,7 @@
             "open_issues": 20,
             "owner": "nextacular",
             "repo": "nextacular",
-            "stars": 1396,
+            "stars": 1397,
             "topics": [
               "analytics",
               "backend",
@@ -224,7 +224,7 @@
             "open_issues": 2,
             "owner": "metavert-io",
             "repo": "lastsaas",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "ai-agents",
               "go",
@@ -255,7 +255,7 @@
             "open_issues": 0,
             "owner": "speedpy",
             "repo": "speedpy",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "ai-agents",
               "alpinejs",
@@ -345,7 +345,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2375,
+                "stars": 2373,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -500,7 +500,7 @@
                 "id": 21652207,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:48:31Z",
+                "last_commit": "2026-11-22T18:48:55Z",
                 "open_issues": 0,
                 "owner": "level09",
                 "repo": "enferno",
@@ -680,7 +680,7 @@
                 "open_issues": 230,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45904,
+                "stars": 45908,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:13:28.670Z",
+    "last_updated": "2026-11-22T20:27:52.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
