@@ -58,10 +58,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-11T22:35:37Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "nextjs",
             "repo": "saas-starter",
-            "stars": 16274,
+            "stars": 16276,
             "topics": [
               "nextjs",
               "postgres",
@@ -296,7 +296,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13098,
+                "stars": 13100,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -342,7 +342,7 @@
                 "language": "Svelte",
                 "license": "MIT",
                 "last_commit": "2026-03-21T20:53:07Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
                 "stars": 2372,
@@ -389,8 +389,8 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T13:29:21Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-27T13:28:58Z",
+                "open_issues": 4,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
                 "stars": 35258,
@@ -596,7 +596,7 @@
                 "open_issues": 6,
                 "owner": "fullstackhero",
                 "repo": "dotnet-starter-kit",
-                "stars": 6867,
+                "stars": 6868,
                 "topics": [
                   "aws",
                   "blazor",
@@ -680,7 +680,7 @@
                 "open_issues": 231,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45914,
+                "stars": 45916,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -778,7 +778,7 @@
                 "open_issues": 19,
                 "owner": "thecodingmachine",
                 "repo": "react-native-boilerplate",
-                "stars": 5559,
+                "stars": 5560,
                 "topics": [
                   "architecture",
                   "boilerplate",
@@ -814,7 +814,7 @@
                 "open_issues": 8,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4382,
+                "stars": 4383,
                 "topics": [
                   "android",
                   "boilerplate",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:33:41.133Z",
+    "last_updated": "2026-11-27T22:18:32.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.",
